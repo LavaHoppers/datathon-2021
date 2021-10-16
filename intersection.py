@@ -29,8 +29,6 @@ def contains(point, nodes, edges):
 
 # import random
 # def main():
-
-    
 #     test_nodes = [[1, 1], [1, -1], [-1, -1], [-1, 1]]
 #     test_edges = [(0, 1), (1, 2), (2, 3), (3, 0)]
 #     for _ in range(100):
@@ -38,7 +36,4 @@ def contains(point, nodes, edges):
 #             pass
 #         else:
 #             print("Test Failed")
-
-
-
 # main()
