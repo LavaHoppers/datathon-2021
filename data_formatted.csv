@@ -1,0 +1,738 @@
+zip,lat,lon,city,county,state house dist,state senate dist,congressional dist,population
+53215,43.006014,-87.942935,Milwaukee,Milwaukee County,Assembly District 8,State Senate District 3,WI4,60010
+54601,43.806197,-91.140529,La Crosse,La Crosse County,Assembly District 94,State Senate District 32,WI3,50388
+53711,43.021252,-89.417973,Madison,Dane County,Assembly District 47,State Senate District 16,WI2,50062
+53511,42.562039,-89.086045,Beloit,Rock County,Assembly District 45,State Senate District 15,WI2,49256
+53209,43.140909,-87.942653,Milwaukee,Milwaukee County,Assembly District 24,State Senate District 8,WI4,46616
+53704,43.136269,-89.347319,Madison,Dane County,Assembly District 48,State Senate District 16,WI2,46090
+54115,44.44888,-88.06038,De Pere,Brown County,Assembly District 88,State Senate District 30,WI8,45657
+54956,44.182337,-88.527574,Neenah,Winnebago County,Assembly District 55,State Senate District 19,WI6,44037
+54703,44.836453,-91.518514,Eau Claire,Eau Claire County,Assembly District 91,State Senate District 31,WI3,43622
+54915,44.243138,-88.356058,Appleton,Calumet County,Assembly District 3,State Senate District 1,WI8,43354
+53081,43.71011,-87.735217,Sheboygan,Sheboygan County,Assembly District 26,State Senate District 9,WI6,42199
+54935,43.77366,-88.436782,Fond Du Lac,Fond Du Lac County,Assembly District 52,State Senate District 18,WI6,42156
+53218,43.11546,-87.991687,Milwaukee,Milwaukee County,Assembly District 11,State Senate District 4,WI4,41974
+54701,44.75653,-91.473097,Eau Claire,Eau Claire County,Assembly District 93,State Senate District 31,WI3,40874
+53590,43.195712,-89.209418,Sun Prairie,Dane County,Assembly District 46,State Senate District 16,WI2,40417
+53221,42.953909,-87.943306,Milwaukee,Milwaukee County,Assembly District 7,State Senate District 3,WI4,40109
+54220,44.109709,-87.714403,Manitowoc,Manitowoc County,Assembly District 25,State Senate District 9,WI6,39008
+54313,44.586363,-88.115165,Green Bay,Brown County,Assembly District 5,State Senate District 2,WI8,38837
+53204,43.019463,-87.925534,Milwaukee,Milwaukee County,Assembly District 8,State Senate District 3,WI4,38678
+54901,44.062886,-88.535694,Oshkosh,Winnebago County,Assembly District 53,State Senate District 18,WI6,37792
+53051,43.159363,-88.121527,Menomonee Falls,Waukesha County,Assembly District 22,State Senate District 8,WI5,37219
+53207,42.975115,-87.894682,Milwaukee,Milwaukee County,Assembly District 20,State Senate District 7,WI4,36889
+54311,44.479888,-87.892181,Green Bay,Brown County,Assembly District 88,State Senate District 30,WI8,36289
+53154,42.886266,-87.89198,Oak Creek,Milwaukee County,Assembly District 21,State Senate District 7,WI1,36066
+53132,42.887289,-88.009597,Franklin,Milwaukee County,Assembly District 82,State Senate District 28,WI1,35782
+53188,43.022273,-88.292435,Waukesha,Waukesha County,Assembly District 98,State Senate District 33,WI5,35730
+53214,43.021514,-88.017587,Milwaukee,Milwaukee County,Assembly District 13,State Senate District 5,WI5,35543
+53211,43.082018,-87.889534,Milwaukee,Milwaukee County,Assembly District 10,State Senate District 4,WI4,35457
+53066,43.087062,-88.463305,Oconomowoc,Waukesha County,Assembly District 99,State Senate District 33,WI5,35357
+53219,42.995814,-87.990335,Milwaukee,Milwaukee County,Assembly District 7,State Senate District 3,WI4,34878
+53703,43.079575,-89.378389,Madison,Dane County,Assembly District 76,State Senate District 26,WI2,34766
+53216,43.086244,-87.976988,Milwaukee,Milwaukee County,Assembly District 17,State Senate District 6,WI4,33583
+53402,42.795889,-87.816532,Racine,Racine County,Assembly District 62,State Senate District 21,WI1,33554
+53142,42.518443,-87.982634,Kenosha,Kenosha County,Assembly District 61,State Senate District 21,WI1,33447
+53186,43.022155,-88.204676,Waukesha,Waukesha County,Assembly District 98,State Senate District 33,WI5,33065
+54729,44.958689,-91.319492,Chippewa Falls,Chippewa County,Assembly District 68,State Senate District 23,WI3,32714
+54016,44.97469,-92.75687,Hudson,St. Croix County,Assembly District 30,State Senate District 10,WI7,31972
+54302,44.495042,-87.978652,Green Bay,Brown County,Assembly District 90,State Senate District 30,WI8,31633
+53151,42.973459,-88.127689,New Berlin,Waukesha County,Assembly District 84,State Senate District 28,WI5,31515
+53719,43.045313,-89.515378,Madison,Dane County,Assembly District 78,State Senate District 26,WI2,31487
+54914,44.280839,-88.452033,Appleton,Outagamie County,Assembly District 55,State Senate District 19,WI8,30890
+54401,44.963304,-89.704051,Wausau,Marathon County,Assembly District 85,State Senate District 29,WI7,30549
+53212,43.074862,-87.907178,Milwaukee,Milwaukee County,Assembly District 10,State Senate District 4,WI4,30546
+53546,42.663574,-88.947859,Janesville,Rock County,Assembly District 31,State Senate District 11,WI1,30185
+53208,43.045962,-87.963536,Milwaukee,Milwaukee County,Assembly District 18,State Senate District 6,WI4,30161
+54880,46.574982,-92.117578,Superior,Douglas County,Assembly District 73,State Senate District 25,WI7,29914
+53105,42.692103,-88.228793,Burlington,Racine County,Assembly District 63,State Senate District 21,WI1,29781
+53140,42.622449,-87.830375,Kenosha,Kenosha County,Assembly District 64,State Senate District 22,WI1,29671
+53223,43.162959,-87.977896,Milwaukee,Milwaukee County,Assembly District 11,State Senate District 4,WI4,29244
+53217,43.157299,-87.913268,Milwaukee,Milwaukee County,Assembly District 24,State Senate District 8,WI4,28661
+54481,44.510664,-89.638254,Stevens Point,Portage County,Assembly District 71,State Senate District 24,WI3,28614
+53213,43.048802,-88.001511,Milwaukee,Milwaukee County,Assembly District 13,State Senate District 5,WI5,27667
+54303,44.552247,-88.078803,Green Bay,Brown County,Assembly District 4,State Senate District 2,WI8,27416
+53095,43.422223,-88.195862,West Bend,Washington County,Assembly District 58,State Senate District 20,WI5,27351
+54304,44.497541,-88.032443,Green Bay,Brown County,Assembly District 90,State Senate District 30,WI8,27315
+54952,44.20104,-88.329484,Menasha,Calumet County,Assembly District 3,State Senate District 1,WI8,27071
+53210,43.071111,-87.973786,Milwaukee,Milwaukee County,Assembly District 18,State Senate District 6,WI4,26793
+53189,42.95163,-88.296321,Waukesha,Waukesha County,Assembly District 97,State Senate District 33,WI1,26762
+54494,44.340837,-89.73492,Wisconsin Rapids,Wood County,Assembly District 72,State Senate District 24,WI3,26577
+53225,43.115159,-88.040188,Milwaukee,Milwaukee County,Assembly District 12,State Senate District 4,WI4,26551
+53144,42.618427,-87.948079,Kenosha,Kenosha County,Assembly District 61,State Senate District 21,WI1,26459
+53222,43.082161,-88.036938,Milwaukee,Milwaukee County,Assembly District 14,State Senate District 5,WI4,26367
+53220,42.955864,-87.993285,Milwaukee,Milwaukee County,Assembly District 84,State Senate District 28,WI5,26360
+54911,44.275702,-88.370856,Appleton,Outagamie County,Assembly District 56,State Senate District 19,WI8,26348
+53403,42.684188,-87.815533,Racine,Racine County,Assembly District 66,State Senate District 22,WI1,26339
+53562,43.114772,-89.529153,Middleton,Dane County,Assembly District 79,State Senate District 27,WI2,26335
+53406,42.72993,-87.866213,Racine,Racine County,Assembly District 63,State Senate District 21,WI1,26160
+54751,44.867809,-91.943198,Menomonie,Dunn County,Assembly District 29,State Senate District 10,WI3,26011
+53072,43.080185,-88.264875,Pewaukee,Waukesha County,Assembly District 98,State Senate District 33,WI5,25984
+54130,44.27804,-88.27205,Kaukauna,Outagamie County,Assembly District 5,State Senate District 2,WI8,25837
+53150,42.88799,-88.132708,Muskego,Waukesha County,Assembly District 83,State Senate District 28,WI1,25824
+53705,43.073147,-89.45681,Madison,Dane County,Assembly District 77,State Senate District 26,WI2,25643
+54449,44.589394,-90.190595,Marshfield,Wood County,Assembly District 70,State Senate District 24,WI7,25574
+53405,42.731827,-87.820925,Racine,Racine County,Assembly District 62,State Senate District 21,WI1,25441
+53202,43.043213,-87.894734,Milwaukee,Milwaukee County,Assembly District 19,State Senate District 7,WI4,24921
+54650,43.886664,-91.130399,Onalaska,La Crosse County,Assembly District 94,State Senate District 32,WI3,24602
+54403,44.952863,-89.531804,Wausau,Marathon County,Assembly District 85,State Senate District 29,WI7,24525
+53593,42.995697,-89.566512,Verona,Dane County,Assembly District 79,State Senate District 27,WI2,23676
+53227,43.000926,-88.031418,Milwaukee,Milwaukee County,Assembly District 15,State Senate District 5,WI5,23609
+54022,44.802351,-92.595365,River Falls,Pierce County,Assembly District 30,State Senate District 10,WI3,23537
+53027,43.357616,-88.319032,Hartford,Washington County,Assembly District 59,State Senate District 20,WI5,23279
+53545,42.738888,-89.0403,Janesville,Rock County,Assembly District 43,State Senate District 15,WI2,23208
+53143,42.561312,-87.82993,Kenosha,Kenosha County,Assembly District 65,State Senate District 22,WI1,23115
+53916,43.466482,-88.862852,Beaver Dam,Dodge County,Assembly District 39,State Senate District 13,WI6,22552
+53206,43.074311,-87.933135,Milwaukee,Milwaukee County,Assembly District 10,State Senate District 4,WI4,22520
+54902,43.99461,-88.526025,Oshkosh,Winnebago County,Assembly District 54,State Senate District 18,WI6,22415
+53224,43.16333,-88.039699,Milwaukee,Milwaukee County,Assembly District 12,State Senate District 4,WI4,22308
+53713,43.037167,-89.397066,Madison,Dane County,Assembly District 77,State Senate District 26,WI2,22255
+53090,43.443839,-88.19631,West Bend,Washington County,Assembly District 58,State Senate District 20,WI5,21687
+54904,44.0234,-88.623839,Oshkosh,Winnebago County,Assembly District 53,State Senate District 18,WI6,21517
+53029,43.123679,-88.336087,Hartland,Waukesha County,Assembly District 99,State Senate District 33,WI5,21514
+54913,44.345553,-88.434297,Appleton,Outagamie County,Assembly District 5,State Senate District 2,WI8,21510
+54301,44.480778,-88.016063,Green Bay,Brown County,Assembly District 4,State Senate District 2,WI8,21501
+53045,43.06081,-88.15589,Brookfield,Waukesha County,Assembly District 14,State Senate District 5,WI5,21468
+53092,43.235856,-87.981188,Thiensville,Ozaukee County,Assembly District 23,State Senate District 8,WI6,20983
+53172,42.91057,-87.86064,South Milwaukee,Milwaukee County,Assembly District 21,State Senate District 7,WI4,20957
+53913,43.47109,-89.74429,Baraboo,Sauk County,Assembly District 81,State Senate District 27,WI2,20799
+53083,43.815872,-87.764212,Sheboygan,Sheboygan County,Assembly District 27,State Senate District 9,WI6,20479
+53149,42.86668,-88.33343,Mukwonago,Waukesha County,Assembly District 33,State Senate District 11,WI1,20252
+53589,42.931289,-89.168354,Stoughton,Dane County,Assembly District 46,State Senate District 16,WI2,20176
+53005,43.062707,-88.105906,Brookfield,Waukesha County,Assembly District 14,State Senate District 5,WI5,20124
+54501,45.704474,-89.386562,Rhinelander,Oneida County,Assembly District 34,State Senate District 12,WI7,19960
+54937,43.791998,-88.388482,Fond Du Lac,Fond Du Lac County,Assembly District 52,State Senate District 18,WI6,19766
+53597,43.19194,-89.45567,Waunakee,Dane County,Assembly District 79,State Senate District 27,WI2,19445
+53022,43.235477,-88.124711,Germantown,Washington County,Assembly District 24,State Senate District 8,WI5,19397
+53094,43.132599,-88.743595,Watertown,Jefferson County,Assembly District 38,State Senate District 13,WI5,19301
+53548,42.682455,-89.051926,Janesville,Rock County,Assembly District 44,State Senate District 15,WI2,19243
+53190,42.784255,-88.592559,Whitewater,Walworth County,Assembly District 33,State Senate District 11,WI1,19241
+53089,43.148887,-88.245381,Sussex,Waukesha County,Assembly District 22,State Senate District 8,WI5,19128
+53185,42.763168,-88.197361,Waterford,Racine County,Assembly District 83,State Senate District 28,WI1,19113
+54476,44.866501,-89.576968,Schofield,Marathon County,Assembly District 86,State Senate District 29,WI7,19025
+53121,42.671666,-88.563961,Elkhorn,Walworth County,Assembly District 31,State Senate District 11,WI1,18949
+53226,43.049312,-88.041387,Milwaukee,Milwaukee County,Assembly District 13,State Senate District 5,WI5,18940
+53538,42.926467,-88.841626,Fort Atkinson,Jefferson County,Assembly District 33,State Senate District 11,WI5,18528
+53716,43.063103,-89.313327,Madison,Dane County,Assembly District 47,State Senate District 16,WI2,18480
+54452,45.217518,-89.713291,Merrill,Lincoln County,Assembly District 35,State Senate District 12,WI7,18407
+53012,43.321475,-88.004033,Cedarburg,Ozaukee County,Assembly District 60,State Senate District 20,WI6,18335
+53110,42.948015,-87.866831,Cudahy,Milwaukee County,Assembly District 20,State Senate District 7,WI4,18271
+54455,44.809226,-89.701277,Mosinee,Marathon County,Assembly District 86,State Senate District 29,WI7,18174
+54017,45.090925,-92.496993,New Richmond,St. Croix County,Assembly District 29,State Senate District 10,WI7,17995
+54656,43.949925,-90.752783,Sparta,Monroe County,Assembly District 96,State Senate District 32,WI3,17670
+53024,43.299956,-87.94104,Grafton,Ozaukee County,Assembly District 23,State Senate District 8,WI6,17270
+53147,42.617877,-88.52023,Lake Geneva,Walworth County,Assembly District 32,State Senate District 11,WI1,16858
+54235,44.78333,-87.31667,Sturgeon Bay,Door County,Assembly District 1,State Senate District 1,WI8,16840
+53158,42.52926,-87.885546,Pleasant Prairie,Kenosha County,Assembly District 61,State Senate District 21,WI1,16750
+54166,44.745058,-88.664156,Shawano,Shawano County,Assembly District 6,State Senate District 2,WI8,16620
+53575,42.933918,-89.389642,Oregon,Dane County,Assembly District 80,State Senate District 27,WI2,16357
+53818,42.73416,-90.47846,Platteville,Grant County,Assembly District 49,State Senate District 17,WI3,16179
+53714,43.100348,-89.311966,Madison,Dane County,Assembly District 48,State Senate District 16,WI2,16147
+53115,42.641556,-88.653496,Delavan,Walworth County,Assembly District 32,State Senate District 11,WI1,15998
+54660,43.983826,-90.473336,Tomah,Monroe County,Assembly District 96,State Senate District 32,WI3,15887
+53532,43.24777,-89.34373,De Forest,Dane County,Assembly District 37,State Senate District 13,WI2,15696
+54868,45.519692,-91.826575,Rice Lake,Barron County,Assembly District 75,State Senate District 25,WI7,15247
+54981,44.35803,-89.08595,Waupaca,Waupaca County,Assembly District 40,State Senate District 14,WI8,15209
+53566,42.612966,-89.656994,Monroe,Green County,Assembly District 51,State Senate District 17,WI2,15162
+53233,43.037213,-87.933529,Milwaukee,Milwaukee County,Assembly District 16,State Senate District 6,WI4,15143
+53404,42.756718,-87.812275,Racine,Racine County,Assembly District 62,State Senate District 21,WI1,14996
+54143,45.086805,-87.716311,Marinette,Marinette County,Assembly District 89,State Senate District 30,WI8,14885
+53073,43.768454,-87.975773,Plymouth,Sheboygan County,Assembly District 27,State Senate District 9,WI6,14777
+53718,43.093146,-89.276619,Madison,Dane County,Assembly District 48,State Senate District 16,WI2,14768
+53901,43.53915,-89.46262,Portage,Columbia County,Assembly District 81,State Senate District 27,WI6,14751
+53228,42.967564,-88.043386,Milwaukee,Milwaukee County,Assembly District 84,State Senate District 28,WI5,14703
+54636,43.968617,-91.223484,Holmen,La Crosse County,Assembly District 94,State Senate District 32,WI3,14587
+53129,42.937765,-87.998935,Greendale,Milwaukee County,Assembly District 82,State Senate District 28,WI1,14148
+54467,44.413942,-89.565507,Plover,Portage County,Assembly District 71,State Senate District 24,WI3,14100
+54603,43.853763,-91.246238,La Crosse,La Crosse County,Assembly District 95,State Senate District 32,WI3,14090
+54241,44.15388,-87.56925,Two Rivers,Manitowoc County,Assembly District 2,State Senate District 1,WI6,14014
+53959,43.533502,-89.999636,Reedsburg,Sauk County,Assembly District 50,State Senate District 17,WI2,13999
+53963,43.63332,-88.72955,Waupun,Fond Du Lac County,Assembly District 53,State Senate District 18,WI6,13887
+54961,44.405595,-88.859107,New London,Waupaca County,Assembly District 40,State Senate District 14,WI8,13602
+53715,43.06849,-89.401708,Madison,Dane County,Assembly District 76,State Senate District 26,WI2,13508
+54409,45.160809,-89.093942,Antigo,Langlade County,Assembly District 35,State Senate District 12,WI7,12900
+53074,43.387702,-87.881232,Port Washington,Ozaukee County,Assembly District 60,State Senate District 20,WI6,12872
+53717,43.074335,-89.51989,Madison,Dane County,Assembly District 78,State Senate District 26,WI2,12748
+53558,43.0125,-89.28984,Mc Farland,Dane County,Assembly District 47,State Senate District 16,WI2,12305
+53534,42.803797,-89.101389,Edgerton,Rock County,Assembly District 43,State Senate District 15,WI2,12040
+54843,45.955223,-91.278308,Hayward,Sawyer County,Assembly District 87,State Senate District 29,WI7,11790
+53098,43.276444,-88.715408,Watertown,Dodge County,Assembly District 37,State Senate District 13,WI5,11685
+53085,43.726404,-87.853069,Sheboygan Falls,Sheboygan County,Assembly District 26,State Senate District 9,WI6,11537
+54806,46.558577,-90.738773,Ashland,Ashland County,Assembly District 74,State Senate District 25,WI7,11440
+54451,45.164705,-90.445798,Medford,Taylor County,Assembly District 87,State Senate District 29,WI7,11404
+53563,42.77556,-88.944,Milton,Rock County,Assembly District 43,State Senate District 15,WI1,11349
+53527,43.071165,-89.196996,Cottage Grove,Dane County,Assembly District 46,State Senate District 16,WI2,10950
+54971,43.8422,-88.83594,Ripon,Fond Du Lac County,Assembly District 41,State Senate District 14,WI6,10697
+53572,43.00861,-89.73846,Mount Horeb,Dane County,Assembly District 80,State Senate District 27,WI2,10659
+54615,44.295394,-90.83128,Black River Falls,Jackson County,Assembly District 92,State Senate District 31,WI3,10532
+53965,43.62748,-89.77096,Wisconsin Dells,Columbia County,Assembly District 41,State Senate District 14,WI3,10450
+53549,42.993502,-88.759793,Jefferson,Jefferson County,Assembly District 33,State Senate District 11,WI5,10316
+54482,44.53891,-89.523076,Stevens Point,Portage County,Assembly District 71,State Senate District 24,WI3,9990
+54942,44.286983,-88.556406,Greenville,Outagamie County,Assembly District 55,State Senate District 19,WI8,9986
+53581,43.366148,-90.430225,Richland Center,Richland County,Assembly District 49,State Senate District 17,WI3,9982
+53182,42.739435,-88.083092,Union Grove,Racine County,Assembly District 63,State Senate District 21,WI1,9888
+54140,44.294746,-88.316305,Little Chute,Outagamie County,Assembly District 5,State Senate District 2,WI8,9589
+53235,42.969865,-87.873732,Saint Francis,Milwaukee County,Assembly District 20,State Senate District 7,WI4,9519
+54487,45.337814,-89.765239,Tomahawk,Lincoln County,Assembly District 35,State Senate District 12,WI7,9489
+53120,42.78529,-88.4051,East Troy,Walworth County,Assembly District 32,State Senate District 11,WI1,9485
+54162,44.67222,-88.2426,Pulaski,Brown County,Assembly District 6,State Senate District 2,WI8,9127
+53128,42.49835,-88.32815,Genoa City,Walworth County,Assembly District 32,State Senate District 11,WI1,9052
+54944,44.342058,-88.588244,Hortonville,Outagamie County,Assembly District 5,State Senate District 2,WI8,9039
+54923,43.915726,-89.027124,Berlin,Green Lake County,Assembly District 41,State Senate District 14,WI6,8968
+53205,43.053112,-87.933185,Milwaukee,Milwaukee County,Assembly District 16,State Senate District 6,WI4,8908
+53168,42.574598,-88.137535,Salem,Kenosha County,Assembly District 61,State Senate District 21,WI1,8814
+53555,43.342813,-89.557023,Lodi,Columbia County,Assembly District 42,State Senate District 14,WI6,8728
+53536,42.766359,-89.250152,Evansville,Rock County,Assembly District 45,State Senate District 15,WI2,8713
+54929,44.62053,-88.76232,Clintonville,Waupaca County,Assembly District 6,State Senate District 2,WI8,8673
+53551,43.080902,-88.913251,Lake Mills,Jefferson County,Assembly District 38,State Senate District 13,WI5,8656
+53086,43.327417,-88.260878,Slinger,Washington County,Assembly District 58,State Senate District 20,WI5,8279
+54457,44.299968,-89.920843,Nekoosa,Wood County,Assembly District 70,State Senate District 24,WI3,8155
+53040,43.499425,-88.206447,Kewaskum,Washington County,Assembly District 59,State Senate District 20,WI5,8145
+54665,43.530515,-90.991573,Viroqua,Vernon County,Assembly District 96,State Senate District 32,WI3,8137
+53146,42.969924,-88.177554,New Berlin,Waukesha County,Assembly District 84,State Senate District 28,WI5,8082
+53177,42.712962,-87.934013,Sturtevant,Racine County,Assembly District 63,State Senate District 21,WI1,8079
+53821,43.084008,-91.069064,Prairie Du Chien,Crawford County,Assembly District 96,State Senate District 32,WI3,8058
+53948,43.79719,-90.07735,Mauston,Juneau County,Assembly District 50,State Senate District 17,WI3,8049
+54001,45.348566,-92.401379,Amery,Polk County,Assembly District 28,State Senate District 10,WI7,7928
+54521,45.91718,-89.2443,Eagle River,Vilas County,Assembly District 34,State Senate District 12,WI7,7908
+54669,43.897572,-91.120198,West Salem,La Crosse County,Assembly District 94,State Senate District 32,WI3,7905
+53925,43.3569,-89.12088,Columbus,Columbia County,Assembly District 42,State Senate District 14,WI6,7858
+53014,44.020561,-88.185906,Chilton,Calumet County,Assembly District 25,State Senate District 9,WI8,7745
+54720,44.803612,-91.442253,Altoona,Eau Claire County,Assembly District 68,State Senate District 23,WI3,7743
+54165,44.51499,-88.33038,Seymour,Outagamie County,Assembly District 5,State Senate District 2,WI8,7641
+53010,43.59777,-88.27899,Campbellsport,Fond Du Lac County,Assembly District 59,State Senate District 20,WI6,7635
+53018,43.015666,-88.386519,Delafield,Waukesha County,Assembly District 99,State Senate District 33,WI5,7602
+53130,42.943614,-88.046454,Hales Corners,Milwaukee County,Assembly District 83,State Senate District 28,WI1,7564
+53181,42.523887,-88.235389,Twin Lakes,Kenosha County,Assembly District 61,State Senate District 21,WI1,7460
+54724,45.10024,-91.48877,Bloomer,Chippewa County,Assembly District 67,State Senate District 23,WI7,7421
+54155,44.4986,-88.18288,Oneida,Brown County,Assembly District 5,State Senate District 2,WI8,7369
+54495,44.388082,-89.922751,Wisconsin Rapids,Wood County,Assembly District 70,State Senate District 24,WI3,7326
+54217,44.541977,-87.670551,Luxemburg,Kewaunee County,Assembly District 1,State Senate District 1,WI8,7281
+54025,45.12441,-92.67354,Somerset,St. Croix County,Assembly District 28,State Senate District 10,WI7,7274
+53179,42.517168,-88.138001,Trevor,Kenosha County,Assembly District 61,State Senate District 21,WI1,7143
+53118,42.951536,-88.444097,Dousman,Waukesha County,Assembly District 99,State Senate District 33,WI1,7112
+54755,44.48773,-91.68068,Mondovi,Buffalo County,Assembly District 92,State Senate District 31,WI3,7082
+53533,43.007063,-90.192522,Dodgeville,Iowa County,Assembly District 51,State Senate District 17,WI2,7066
+54963,44.050782,-88.754887,Omro,Winnebago County,Assembly District 53,State Senate District 18,WI6,7063
+54153,44.88721,-87.86455,Oconto,Oconto County,Assembly District 89,State Senate District 30,WI8,7054
+54020,45.283783,-92.535618,Osceola,Polk County,Assembly District 28,State Senate District 10,WI7,7002
+54982,44.075321,-89.271177,Wautoma,Waushara County,Assembly District 72,State Senate District 24,WI6,6957
+53126,42.785553,-87.995471,Franksville,Racine County,Assembly District 62,State Senate District 21,WI1,6933
+54011,44.740142,-92.548289,Ellsworth,Pierce County,Assembly District 93,State Senate District 31,WI3,6915
+53050,43.483463,-88.545925,Mayville,Dodge County,Assembly District 39,State Senate District 13,WI6,6744
+53954,43.516772,-89.31459,Pardeeville,Columbia County,Assembly District 42,State Senate District 14,WI6,6664
+54021,44.74886,-92.80215,Prescott,Pierce County,Assembly District 93,State Senate District 31,WI3,6659
+54801,45.82245,-91.88934,Spooner,Washburn County,Assembly District 73,State Senate District 25,WI7,6593
+53042,43.96317,-87.955059,Kiel,Manitowoc County,Assembly District 27,State Senate District 9,WI6,6587
+53520,42.61834,-89.37623,Brodhead,Green County,Assembly District 45,State Senate District 15,WI2,6510
+54208,44.34777,-87.82732,Denmark,Brown County,Assembly District 2,State Senate District 1,WI8,6441
+53578,43.28693,-89.72401,Prairie Du Sac,Sauk County,Assembly District 81,State Senate District 27,WI2,6373
+54002,44.96663,-92.37436,Baldwin,St. Croix County,Assembly District 29,State Senate District 10,WI7,6361
+53097,43.242049,-88.009823,Mequon,Ozaukee County,Assembly District 24,State Senate District 8,WI6,6318
+53559,43.173921,-89.091315,Marshall,Dane County,Assembly District 38,State Senate District 13,WI2,6302
+54136,44.27221,-88.339,Kimberly,Outagamie County,Assembly District 3,State Senate District 1,WI8,6298
+53528,43.11444,-89.65568,Cross Plains,Dane County,Assembly District 79,State Senate District 27,WI2,6258
+54216,44.438185,-87.592719,Kewaunee,Kewaunee County,Assembly District 1,State Senate District 1,WI8,6246
+54728,45.31413,-91.651,Chetek,Barron County,Assembly District 75,State Senate District 25,WI7,6223
+53122,43.048211,-88.087888,Elm Grove,Waukesha County,Assembly District 13,State Senate District 5,WI5,6153
+54768,44.95997,-90.93708,Stanley,Chippewa County,Assembly District 68,State Senate District 23,WI7,6150
+53949,43.812581,-89.372011,Montello,Marquette County,Assembly District 41,State Senate District 14,WI6,6098
+53706,43.077755,-89.413326,Madison,Dane County,Assembly District 77,State Senate District 26,WI2,6097
+53583,43.251127,-89.89584,Sauk City,Sauk County,Assembly District 81,State Senate District 27,WI2,6015
+54456,44.688149,-90.669407,Neillsville,Clark County,Assembly District 68,State Senate District 23,WI7,5898
+53119,42.929074,-88.47489,Eagle,Waukesha County,Assembly District 33,State Senate District 11,WI1,5895
+53813,42.864155,-90.684965,Lancaster,Grant County,Assembly District 49,State Senate District 17,WI3,5887
+54157,45.05443,-87.74927,Peshtigo,Marinette County,Assembly District 89,State Senate District 30,WI8,5843
+54848,45.490835,-91.0943,Ladysmith,Rusk County,Assembly District 87,State Senate District 29,WI7,5764
+53508,42.903829,-89.586339,Belleville,Dane County,Assembly District 80,State Senate District 27,WI2,5733
+53080,43.38167,-87.94065,Saukville,Ozaukee County,Assembly District 60,State Senate District 20,WI6,5718
+53955,43.433273,-89.394518,Poynette,Columbia County,Assembly District 42,State Senate District 14,WI6,5676
+54154,44.901999,-88.125829,Oconto Falls,Oconto County,Assembly District 36,State Senate District 12,WI8,5656
+53726,43.06956,-89.423861,Madison,Dane County,Assembly District 77,State Senate District 26,WI2,5612
+53017,43.209445,-88.241501,Colgate,Washington County,Assembly District 22,State Senate District 8,WI5,5592
+54812,45.40135,-91.84906,Barron,Barron County,Assembly District 75,State Senate District 25,WI7,5591
+53950,43.911145,-90.165918,New Lisbon,Juneau County,Assembly District 50,State Senate District 17,WI3,5580
+53104,42.553518,-88.028986,Bristol,Kenosha County,Assembly District 61,State Senate District 21,WI1,5437
+54110,44.163209,-88.133876,Brillion,Calumet County,Assembly District 3,State Senate District 1,WI8,5395
+54739,44.87885,-91.68711,Elk Mound,Dunn County,Assembly District 67,State Senate District 23,WI3,5389
+54986,44.124886,-88.745129,Winneconne,Winnebago County,Assembly District 56,State Senate District 19,WI8,5284
+54114,45.261661,-88.078001,Crivitz,Marinette County,Assembly District 36,State Senate District 12,WI8,5265
+54106,44.470235,-88.454719,Black Creek,Outagamie County,Assembly District 5,State Senate District 2,WI8,5232
+54411,44.982348,-90.007765,Athens,Marathon County,Assembly District 87,State Senate District 29,WI7,5226
+53523,42.987505,-89.080742,Cambridge,Dane County,Assembly District 38,State Senate District 13,WI2,5182
+54201,44.596017,-87.540266,Algoma,Kewaunee County,Assembly District 1,State Senate District 1,WI8,5136
+53805,43.13443,-90.7054,Boscobel,Grant County,Assembly District 49,State Senate District 17,WI3,5118
+54484,44.809072,-90.030674,Stratford,Marathon County,Assembly District 69,State Senate District 23,WI7,5111
+54568,45.859618,-89.653705,Woodruff,Oneida County,Assembly District 34,State Senate District 12,WI7,5109
+54829,45.53218,-92.01935,Cumberland,Barron County,Assembly District 75,State Senate District 25,WI7,5102
+53594,43.18388,-88.98844,Waterloo,Jefferson County,Assembly District 37,State Senate District 13,WI5,5098
+53807,42.60555,-90.42985,Cuba City,Grant County,Assembly District 49,State Senate District 17,WI3,5077
+54727,44.94802,-91.1507,Cadott,Chippewa County,Assembly District 67,State Senate District 23,WI3,5069
+54229,44.571416,-87.833306,New Franken,Brown County,Assembly District 1,State Senate District 1,WI8,5066
+54612,44.251711,-91.387699,Arcadia,Trempealeau County,Assembly District 92,State Senate District 31,WI3,5062
+54742,44.762892,-91.306304,Fall Creek,Eau Claire County,Assembly District 68,State Senate District 23,WI3,5033
+53061,43.949886,-88.101954,New Holstein,Calumet County,Assembly District 59,State Senate District 20,WI8,4944
+53070,43.620857,-87.810616,Oostburg,Sheboygan County,Assembly District 26,State Senate District 9,WI6,4940
+54730,45.037889,-91.888046,Colfax,Dunn County,Assembly District 67,State Senate District 23,WI3,4890
+54548,45.827583,-89.824294,Minocqua,Oneida County,Assembly District 34,State Senate District 12,WI7,4853
+53021,43.477015,-87.961162,Fredonia,Ozaukee County,Assembly District 60,State Senate District 20,WI6,4843
+53032,43.422045,-88.624268,Horicon,Dodge County,Assembly District 39,State Senate District 13,WI5,4839
+54667,43.653701,-90.841723,Westby,Vernon County,Assembly District 96,State Senate District 32,WI3,4818
+54555,45.724607,-90.370984,Phillips,Price County,Assembly District 74,State Senate District 25,WI7,4776
+54024,45.509689,-92.611733,Saint Croix Falls,Polk County,Assembly District 28,State Senate District 10,WI7,4748
+54230,44.142382,-87.904684,Reedsville,Manitowoc County,Assembly District 25,State Senate District 9,WI6,4740
+53033,43.23667,-88.2212,Hubertus,Washington County,Assembly District 58,State Senate District 20,WI5,4719
+53565,42.86,-90.17985,Mineral Point,Iowa County,Assembly District 51,State Senate District 17,WI2,4672
+53531,43.057662,-89.091798,Deerfield,Dane County,Assembly District 38,State Senate District 13,WI2,4624
+53039,43.372221,-88.710157,Juneau,Dodge County,Assembly District 39,State Senate District 13,WI5,4594
+54822,45.40857,-91.74406,Cameron,Barron County,Assembly District 75,State Senate District 25,WI7,4560
+54426,44.904647,-90.012469,Edgar,Marathon County,Assembly District 69,State Senate District 23,WI7,4533
+54758,44.57218,-91.22738,Osseo,Trempealeau County,Assembly District 68,State Senate District 23,WI3,4505
+54634,43.6522,-90.34402,Hillsboro,Vernon County,Assembly District 96,State Senate District 32,WI3,4482
+53530,42.69112,-90.134781,Darlington,Lafayette County,Assembly District 51,State Senate District 17,WI2,4457
+53933,43.568169,-88.895723,Fox Lake,Dodge County,Assembly District 42,State Senate District 14,WI6,4455
+54983,44.332498,-88.922821,Weyauwega,Waupaca County,Assembly District 40,State Senate District 14,WI8,4445
+53076,43.2727,-88.206716,Richfield,Washington County,Assembly District 58,State Senate District 20,WI5,4441
+54173,44.63194,-88.03927,Suamico,Brown County,Assembly District 89,State Senate District 30,WI8,4426
+54448,44.875437,-89.80077,Marathon,Marathon County,Assembly District 86,State Senate District 29,WI7,4396
+54840,45.795342,-92.693513,Grantsburg,Burnett County,Assembly District 28,State Senate District 10,WI7,4391
+53934,43.997966,-89.777051,Friendship,Adams County,Assembly District 72,State Senate District 24,WI3,4389
+54771,44.894112,-90.790684,Thorp,Clark County,Assembly District 68,State Senate District 23,WI7,4377
+54520,45.511846,-88.891846,Crandon,Forest County,Assembly District 36,State Senate District 12,WI7,4289
+53038,43.07195,-88.79344,Johnson Creek,Jefferson County,Assembly District 38,State Senate District 13,WI5,4280
+53809,42.9836,-90.6554,Fennimore,Grant County,Assembly District 49,State Senate District 17,WI3,4246
+54023,44.974357,-92.59762,Roberts,St. Croix County,Assembly District 30,State Senate District 10,WI7,4191
+53184,42.561543,-88.597153,Walworth,Walworth County,Assembly District 31,State Senate District 11,WI1,4182
+54736,44.640224,-91.831869,Durand,Pepin County,Assembly District 93,State Senate District 31,WI3,4174
+54630,44.094809,-91.339528,Galesville,Trempealeau County,Assembly District 92,State Senate District 31,WI3,4173
+54646,44.022637,-90.130552,Necedah,Juneau County,Assembly District 50,State Senate District 17,WI7,4163
+54853,45.57607,-92.4827,Luck,Polk County,Assembly District 28,State Senate District 10,WI7,4112
+54940,44.272779,-88.833282,Fremont,Waupaca County,Assembly District 40,State Senate District 14,WI6,4093
+53946,43.723578,-89.065361,Markesan,Green Lake County,Assembly District 41,State Senate District 14,WI6,4079
+54552,45.93333,-90.45,Park Falls,Price County,Assembly District 74,State Senate District 25,WI7,4071
+53525,42.56239,-88.859993,Clinton,Rock County,Assembly District 31,State Senate District 11,WI1,4032
+53588,43.230001,-90.040066,Spring Green,Sauk County,Assembly District 51,State Senate District 17,WI2,3998
+54479,44.75774,-90.2968,Spencer,Marathon County,Assembly District 69,State Senate District 23,WI7,3977
+54874,46.568809,-91.935156,South Range,Douglas County,Assembly District 73,State Senate District 25,WI7,3900
+54619,43.74191,-90.7793,Cashton,Monroe County,Assembly District 96,State Senate District 32,WI3,3896
+54474,44.88719,-89.62012,Rothschild,Marathon County,Assembly District 85,State Senate District 29,WI7,3874
+54126,44.347365,-88.037736,Greenleaf,Brown County,Assembly District 2,State Senate District 1,WI8,3870
+54722,44.726811,-91.212598,Augusta,Eau Claire County,Assembly District 68,State Senate District 23,WI3,3854
+53574,42.816273,-89.651287,New Glarus,Green County,Assembly District 80,State Senate District 27,WI2,3837
+54970,44.04192,-89.09845,Redgranite,Waushara County,Assembly District 40,State Senate District 14,WI6,3824
+53020,43.827363,-87.9915,Elkhart Lake,Sheboygan County,Assembly District 27,State Senate District 9,WI6,3807
+54837,45.65912,-92.46714,Frederic,Polk County,Assembly District 28,State Senate District 10,WI7,3752
+53521,42.85361,-89.3704,Brooklyn,Green County,Assembly District 80,State Senate District 27,WI2,3739
+54661,44.076755,-91.460168,Trempealeau,Trempealeau County,Assembly District 92,State Senate District 31,WI3,3718
+54893,45.869606,-92.30286,Webster,Burnett County,Assembly District 28,State Senate District 10,WI7,3706
+53560,43.190983,-89.729261,Mazomanie,Dane County,Assembly District 81,State Senate District 27,WI2,3692
+54015,44.966939,-92.456512,Hammond,St. Croix County,Assembly District 29,State Senate District 10,WI7,3687
+54171,44.726641,-88.121792,Sobieski,Oconto County,Assembly District 89,State Senate District 30,WI8,3674
+54421,44.879977,-90.384734,Colby,Clark County,Assembly District 69,State Senate District 23,WI7,3669
+53103,42.882441,-88.205514,Big Bend,Waukesha County,Assembly District 83,State Senate District 28,WI1,3626
+54107,44.699153,-88.454312,Bonduel,Shawano County,Assembly District 6,State Senate District 2,WI8,3620
+53964,43.848698,-89.478459,Westfield,Marquette County,Assembly District 41,State Senate District 14,WI6,3606
+54767,44.781928,-92.283761,Spring Valley,Pierce County,Assembly District 93,State Senate District 31,WI3,3604
+54113,44.26582,-88.31427,Combined Locks,Outagamie County,Assembly District 3,State Senate District 1,WI8,3577
+54170,44.482935,-88.589547,Shiocton,Outagamie County,Assembly District 6,State Senate District 2,WI8,3559
+54757,45.20413,-91.55822,New Auburn,Chippewa County,Assembly District 67,State Senate District 23,WI7,3542
+54414,44.9333,-89.20956,Birnamwood,Shawano County,Assembly District 35,State Senate District 12,WI8,3520
+54180,44.32582,-88.16288,Wrightstown,Brown County,Assembly District 2,State Senate District 1,WI8,3490
+53960,43.398335,-89.250177,Rio,Columbia County,Assembly District 42,State Senate District 14,WI6,3446
+54124,44.88999,-88.30732,Gillett,Oconto County,Assembly District 36,State Senate District 12,WI8,3440
+54773,44.443778,-91.285758,Whitehall,Trempealeau County,Assembly District 92,State Senate District 31,WI3,3439
+54406,44.393087,-89.335313,Amherst,Portage County,Assembly District 71,State Senate District 24,WI3,3423
+53108,42.803697,-87.930936,Caledonia,Racine County,Assembly District 62,State Senate District 21,WI1,3417
+54891,46.697289,-90.904151,Washburn,Bayfield County,Assembly District 74,State Senate District 25,WI7,3400
+54949,44.488057,-88.926954,Manawa,Waupaca County,Assembly District 40,State Senate District 14,WI8,3379
+54013,45.060365,-92.248403,Glenwood City,St. Croix County,Assembly District 29,State Senate District 10,WI7,3349
+53910,43.892066,-89.827509,Adams,Adams County,Assembly District 41,State Senate District 14,WI3,3345
+54945,44.572209,-89.071142,Iola,Waupaca County,Assembly District 40,State Senate District 14,WI8,3338
+53004,43.499631,-87.918042,Belgium,Ozaukee County,Assembly District 60,State Senate District 20,WI6,3334
+54135,44.88646,-88.575133,Keshena,Menominee County,Assembly District 36,State Senate District 12,WI8,3332
+53013,43.590548,-87.85532,Cedar Grove,Sheboygan County,Assembly District 26,State Senate District 9,WI6,3326
+53048,43.59138,-88.44371,Lomira,Dodge County,Assembly District 39,State Senate District 13,WI6,3314
+53058,43.109127,-88.40248,Nashotah,Waukesha County,Assembly District 99,State Senate District 33,WI5,3313
+53811,42.543893,-90.536322,Hazel Green,Grant County,Assembly District 49,State Senate District 17,WI3,3297
+54738,44.5758,-91.47016,Eleva,Trempealeau County,Assembly District 92,State Senate District 31,WI3,3274
+53075,43.582924,-88.000555,Random Lake,Sheboygan County,Assembly District 26,State Senate District 9,WI6,3251
+54151,45.77135,-87.99485,Niagara,Marinette County,Assembly District 36,State Senate District 12,WI8,3238
+53956,43.534002,-88.946714,Randolph,Dodge County,Assembly District 42,State Senate District 14,WI6,3228
+54139,44.9511,-88.04677,Lena,Oconto County,Assembly District 36,State Senate District 12,WI8,3221
+53952,43.78137,-89.57262,Oxford,Marquette County,Assembly District 41,State Senate District 14,WI3,3219
+53941,43.5822,-90.12818,La Valle,Sauk County,Assembly District 50,State Senate District 17,WI2,3135
+54984,44.168882,-89.223228,Wild Rose,Waushara County,Assembly District 40,State Senate District 14,WI6,3121
+53573,43.1234,-90.488423,Muscoda,Grant County,Assembly District 49,State Senate District 17,WI3,3119
+54005,45.25191,-92.2713,Clear Lake,Polk County,Assembly District 75,State Senate District 25,WI7,3107
+54446,44.73691,-90.49597,Loyal,Clark County,Assembly District 69,State Senate District 23,WI7,3092
+54405,44.94636,-90.31597,Abbotsford,Marathon County,Assembly District 69,State Senate District 23,WI7,3061
+54437,44.77024,-90.59931,Greenwood,Clark County,Assembly District 68,State Senate District 23,WI7,3049
+54129,44.146516,-88.195124,Hilbert,Calumet County,Assembly District 3,State Senate District 1,WI8,3047
+54121,45.845525,-88.284254,Florence,Florence County,Assembly District 34,State Senate District 12,WI7,3021
+54174,45.111843,-88.418694,Suring,Oconto County,Assembly District 36,State Senate District 12,WI8,3008
+54871,45.73939,-91.92545,Shell Lake,Washburn County,Assembly District 75,State Senate District 25,WI7,3002
+53036,43.147748,-88.588628,Ixonia,Jefferson County,Assembly District 37,State Senate District 13,WI5,2994
+54732,45.125153,-91.170922,Cornell,Chippewa County,Assembly District 67,State Senate District 23,WI7,2989
+54499,44.8272,-89.16956,Wittenberg,Shawano County,Assembly District 6,State Senate District 2,WI8,2984
+53156,42.893937,-88.59712,Palmyra,Jefferson County,Assembly District 33,State Senate District 11,WI5,2973
+54440,44.88747,-89.33873,Hatley,Marathon County,Assembly District 85,State Senate District 29,WI7,2962
+54538,45.9696,-89.89948,Lac Du Flambeau,Vilas County,Assembly District 74,State Senate District 25,WI7,2961
+53049,43.875302,-88.287108,Malone,Fond Du Lac County,Assembly District 52,State Senate District 18,WI6,2960
+53183,43.003573,-88.376916,Wales,Waukesha County,Assembly District 99,State Senate District 33,WI1,2945
+54873,46.417261,-91.810992,Solon Springs,Douglas County,Assembly District 73,State Senate District 25,WI7,2905
+53114,42.60168,-88.7076,Darien,Walworth County,Assembly District 31,State Senate District 11,WI1,2901
+54725,45.075804,-92.013036,Boyceville,Dunn County,Assembly District 67,State Senate District 23,WI3,2866
+53191,42.57807,-88.54093,Williams Bay,Walworth County,Assembly District 31,State Senate District 11,WI1,2850
+54830,45.972603,-92.292996,Danbury,Burnett County,Assembly District 73,State Senate District 25,WI7,2807
+54161,45.117544,-87.977136,Pound,Marinette County,Assembly District 36,State Senate District 12,WI8,2792
+54666,44.13107,-90.49985,Warrens,Monroe County,Assembly District 70,State Senate District 24,WI7,2786
+54177,45.383307,-87.876231,Wausaukee,Marinette County,Assembly District 36,State Senate District 12,WI8,2785
+54169,44.1736,-88.25983,Sherwood,Calumet County,Assembly District 3,State Senate District 1,WI8,2776
+54950,44.67081,-88.88927,Marion,Waupaca County,Assembly District 40,State Senate District 14,WI8,2773
+54228,44.23916,-87.64119,Mishicot,Manitowoc County,Assembly District 2,State Senate District 1,WI6,2769
+54466,44.408897,-90.190911,Pittsville,Wood County,Assembly District 70,State Senate District 24,WI7,2761
+53178,43.018327,-88.600429,Sullivan,Jefferson County,Assembly District 33,State Senate District 11,WI5,2755
+54968,43.832741,-89.122651,Princeton,Green Lake County,Assembly District 41,State Senate District 14,WI6,2738
+54101,44.792284,-88.044067,Abrams,Oconto County,Assembly District 89,State Senate District 30,WI8,2723
+54814,46.853517,-90.915934,Bayfield,Bayfield County,Assembly District 74,State Senate District 25,WI7,2718
+53598,43.207783,-89.34178,Windsor,Dane County,Assembly District 79,State Senate District 27,WI2,2713
+54639,43.600044,-90.636482,La Farge,Vernon County,Assembly District 96,State Senate District 32,WI3,2708
+54872,45.782741,-92.385751,Siren,Burnett County,Assembly District 28,State Senate District 10,WI7,2682
+54614,43.89302,-90.99041,Bangor,La Crosse County,Assembly District 94,State Senate District 32,WI3,2666
+53015,43.91499,-87.74731,Cleveland,Manitowoc County,Assembly District 27,State Senate District 9,WI6,2661
+53932,43.417126,-89.070459,Fall River,Columbia County,Assembly District 42,State Senate District 14,WI6,2657
+54473,44.605786,-89.356834,Rosholt,Portage County,Assembly District 71,State Senate District 24,WI3,2655
+54460,44.94858,-90.5643,Owen,Clark County,Assembly District 69,State Senate District 23,WI7,2654
+54616,44.251701,-91.264753,Blair,Trempealeau County,Assembly District 92,State Senate District 31,WI3,2650
+54889,45.400115,-92.074695,Turtle Lake,Barron County,Assembly District 75,State Senate District 25,WI7,2648
+53929,43.7408,-90.27235,Elroy,Juneau County,Assembly District 50,State Senate District 17,WI3,2647
+53556,43.241475,-90.265197,Lone Rock,Richland County,Assembly District 51,State Senate District 17,WI2,2642
+54009,45.36179,-92.549952,Dresser,Polk County,Assembly District 28,State Senate District 10,WI7,2615
+54629,44.170774,-91.674962,Fountain City,Buffalo County,Assembly District 92,State Senate District 31,WI3,2606
+54658,43.669102,-91.134346,Stoddard,Vernon County,Assembly District 96,State Senate District 32,WI3,2598
+54410,44.535658,-90.007245,Arpin,Wood County,Assembly District 70,State Senate District 24,WI7,2594
+53502,42.712827,-89.45123,Albany,Green County,Assembly District 45,State Senate District 15,WI2,2515
+54747,44.356483,-91.443718,Independence,Trempealeau County,Assembly District 92,State Senate District 31,WI3,2513
+54960,43.922097,-89.310982,Neshkoro,Marquette County,Assembly District 41,State Senate District 14,WI6,2493
+53023,43.772128,-88.041299,Glenbeulah,Sheboygan County,Assembly District 59,State Senate District 20,WI6,2486
+53153,42.940971,-88.401712,North Prairie,Waukesha County,Assembly District 99,State Senate District 33,WI1,2465
+54028,44.95302,-92.2913,Woodville,St. Croix County,Assembly District 29,State Senate District 10,WI7,2448
+53570,42.74305,-89.621013,Monticello,Green County,Assembly District 80,State Senate District 27,WI2,2446
+53035,43.36296,-88.581515,Iron Ridge,Dodge County,Assembly District 39,State Senate District 13,WI5,2403
+54436,44.607247,-90.457313,Granton,Clark County,Assembly District 69,State Senate District 23,WI7,2396
+54498,44.944248,-90.638388,Withee,Clark County,Assembly District 68,State Senate District 23,WI7,2372
+54112,45.06498,-88.03427,Coleman,Marinette County,Assembly District 89,State Senate District 30,WI8,2349
+54423,44.51053,-89.42623,Custer,Portage County,Assembly District 71,State Senate District 24,WI3,2347
+53044,43.748441,-87.776246,Kohler,Sheboygan County,Assembly District 27,State Senate District 9,WI6,2334
+53936,43.88692,-89.70624,Grand Marsh,Adams County,Assembly District 41,State Senate District 14,WI3,2333
+54947,44.194993,-88.688629,Larsen,Winnebago County,Assembly District 56,State Senate District 19,WI8,2332
+53139,42.720022,-88.120616,Kansasville,Racine County,Assembly District 63,State Senate District 21,WI1,2324
+54941,43.85627,-88.985883,Green Lake,Green Lake County,Assembly District 41,State Senate District 14,WI6,2313
+53002,43.42055,-88.34093,Allenton,Washington County,Assembly District 59,State Senate District 20,WI5,2305
+54111,44.810274,-88.391648,Cecil,Shawano County,Assembly District 36,State Senate District 12,WI8,2303
+54810,45.44829,-92.4502,Balsam Lake,Polk County,Assembly District 28,State Senate District 10,WI7,2302
+53576,42.614273,-89.233129,Orfordville,Rock County,Assembly District 43,State Senate District 15,WI2,2300
+54618,43.988481,-90.239261,Camp Douglas,Juneau County,Assembly District 50,State Senate District 17,WI3,2299
+53586,42.57334,-90.23096,Shullsburg,Lafayette County,Assembly District 51,State Senate District 17,WI2,2281
+54534,46.371032,-90.221645,Hurley,Iron County,Assembly District 74,State Senate District 25,WI7,2278
+53516,42.81028,-89.86207,Blanchardville,Lafayette County,Assembly District 51,State Senate District 17,WI2,2268
+54141,44.744566,-87.995493,Little Suamico,Oconto County,Assembly District 89,State Senate District 30,WI8,2257
+53820,42.692445,-90.731654,Potosi,Grant County,Assembly District 49,State Senate District 17,WI3,2235
+53951,43.4031,-89.872232,North Freedom,Sauk County,Assembly District 81,State Senate District 27,WI2,2233
+53170,42.552018,-88.160836,Silver Lake,Kenosha County,Assembly District 61,State Senate District 21,WI1,2211
+53065,43.6861,-88.5465,Oakfield,Fond Du Lac County,Assembly District 52,State Senate District 18,WI6,2208
+54004,45.33135,-92.1713,Clayton,Polk County,Assembly District 28,State Senate District 10,WI7,2207
+54770,44.54969,-91.39266,Strum,Trempealeau County,Assembly District 92,State Senate District 31,WI3,2152
+53011,43.65833,-88.00704,Cascade,Sheboygan County,Assembly District 59,State Senate District 20,WI6,2149
+54642,44.196358,-90.979249,Melrose,Jackson County,Assembly District 92,State Senate District 31,WI3,2148
+54443,44.588962,-89.707997,Junction City,Portage County,Assembly District 70,State Senate District 24,WI3,2142
+54909,44.25886,-89.40706,Almond,Portage County,Assembly District 72,State Senate District 24,WI3,2139
+53585,42.50252,-88.72899,Sharon,Walworth County,Assembly District 31,State Senate District 11,WI1,2138
+54014,44.655504,-92.573652,Hager City,Pierce County,Assembly District 93,State Senate District 31,WI3,2134
+54205,44.596082,-87.637308,Casco,Kewaunee County,Assembly District 1,State Senate District 1,WI8,2100
+53944,43.714061,-89.949337,Lyndon Station,Juneau County,Assembly District 50,State Senate District 17,WI3,2097
+54425,44.996496,-90.374411,Dorchester,Clark County,Assembly District 69,State Senate District 23,WI7,2095
+54847,46.599552,-91.437437,Iron River,Bayfield County,Assembly District 74,State Senate District 25,WI7,2083
+53529,43.239966,-89.523346,Dane,Dane County,Assembly District 42,State Senate District 14,WI2,2068
+54245,44.053321,-87.899912,Valders,Manitowoc County,Assembly District 25,State Senate District 9,WI6,2066
+54817,45.732675,-91.615044,Birchwood,Washburn County,Assembly District 75,State Senate District 25,WI7,2064
+54470,45.31747,-90.20848,Rib Lake,Taylor County,Assembly District 87,State Senate District 29,WI7,2042
+53504,42.690143,-89.922697,Argyle,Lafayette County,Assembly District 51,State Senate District 17,WI2,2039
+53093,43.662704,-87.930254,Waldo,Sheboygan County,Assembly District 59,State Senate District 20,WI6,2036
+54435,45.30885,-89.49651,Gleason,Lincoln County,Assembly District 35,State Senate District 12,WI7,2032
+54026,45.196909,-92.530754,Star Prairie,St. Croix County,Assembly District 29,State Senate District 10,WI7,2018
+54558,45.90162,-89.48736,Saint Germain,Vilas County,Assembly District 34,State Senate District 12,WI7,2000
+54943,44.103548,-89.491566,Hancock,Waushara County,Assembly District 72,State Senate District 24,WI6,1992
+54740,44.744453,-92.226414,Elmwood,Pierce County,Assembly District 93,State Senate District 31,WI3,1989
+54247,44.14472,-87.82148,Whitelaw,Manitowoc County,Assembly District 25,State Senate District 9,WI6,1988
+54966,44.21386,-89.49234,Plainfield,Waushara County,Assembly District 72,State Senate District 24,WI6,1979
+53561,43.364531,-89.66396,Merrimac,Sauk County,Assembly District 81,State Senate District 27,WI2,1970
+54745,45.22441,-91.11736,Holcombe,Chippewa County,Assembly District 67,State Senate District 23,WI7,1968
+53503,43.16555,-89.9129,Arena,Iowa County,Assembly District 81,State Senate District 27,WI2,1963
+54741,44.60024,-90.96293,Fairchild,Eau Claire County,Assembly District 68,State Senate District 23,WI3,1951
+53091,43.483635,-88.450107,Theresa,Dodge County,Assembly District 39,State Senate District 13,WI5,1935
+53517,43.03822,-89.804576,Blue Mounds,Dane County,Assembly District 80,State Senate District 27,WI2,1925
+54486,44.75984,-89.039052,Tigerton,Shawano County,Assembly District 6,State Senate District 2,WI8,1917
+53001,43.61916,-87.95204,Adell,Sheboygan County,Assembly District 26,State Senate District 9,WI6,1882
+54754,44.436841,-90.796318,Merrillan,Clark County,Assembly District 69,State Senate District 23,WI7,1868
+54433,45.16664,-90.80763,Gilman,Taylor County,Assembly District 87,State Senate District 29,WI7,1864
+54562,45.762075,-89.157339,Three Lakes,Oneida County,Assembly District 34,State Senate District 12,WI7,1858
+53019,43.6936,-88.36094,Eden,Fond Du Lac County,Assembly District 59,State Senate District 20,WI6,1847
+53059,43.289809,-88.533958,Neosho,Dodge County,Assembly District 39,State Senate District 13,WI5,1832
+53007,43.108459,-88.071489,Butler,Waukesha County,Assembly District 22,State Senate District 8,WI5,1821
+54655,43.369813,-90.808363,Soldiers Grove,Crawford County,Assembly District 96,State Senate District 32,WI3,1816
+54766,45.349548,-90.887173,Sheldon,Taylor County,Assembly District 87,State Senate District 29,WI7,1801
+54635,44.40376,-91.044171,Hixton,Jackson County,Assembly District 92,State Senate District 31,WI3,1794
+54726,44.95191,-91.03487,Boyd,Chippewa County,Assembly District 68,State Senate District 23,WI3,1792
+54514,46.01301,-90.49045,Butternut,Ashland County,Assembly District 74,State Senate District 25,WI7,1791
+54416,44.86303,-88.98205,Bowler,Shawano County,Assembly District 35,State Senate District 12,WI8,1784
+54471,44.929692,-89.364964,Ringle,Marathon County,Assembly District 85,State Senate District 29,WI7,1780
+54859,46.09709,-91.859913,Minong,Washburn County,Assembly District 73,State Senate District 25,WI7,1770
+53579,43.287987,-88.887444,Reeseville,Dodge County,Assembly District 37,State Senate District 13,WI5,1765
+54128,44.85303,-88.78816,Gresham,Shawano County,Assembly District 6,State Senate District 2,WI8,1749
+53125,42.55141,-88.5751,Fontana,Walworth County,Assembly District 31,State Senate District 11,WI1,1741
+53543,43.04666,-90.37985,Highland,Iowa County,Assembly District 51,State Senate District 17,WI2,1738
+53034,43.330523,-88.603032,Hustisford,Dodge County,Assembly District 39,State Senate District 13,WI5,1735
+54849,46.493011,-91.71342,Lake Nebagamon,Douglas County,Assembly District 73,State Senate District 25,WI7,1732
+53203,43.038313,-87.916534,Milwaukee,Milwaukee County,Assembly District 16,State Senate District 6,WI4,1726
+54670,43.848835,-90.468791,Wilton,Monroe County,Assembly District 96,State Senate District 32,WI3,1724
+54469,44.350934,-89.876274,Port Edwards,Wood County,Assembly District 72,State Senate District 24,WI3,1717
+53078,43.34028,-88.4576,Rubicon,Dodge County,Assembly District 39,State Senate District 13,WI5,1715
+54930,44.026085,-89.486854,Coloma,Waushara County,Assembly District 72,State Senate District 24,WI6,1710
+54627,44.184171,-91.257707,Ettrick,Trempealeau County,Assembly District 92,State Senate District 31,WI3,1707
+54631,43.269667,-90.83178,Gays Mills,Crawford County,Assembly District 96,State Senate District 32,WI3,1706
+53006,43.602789,-88.52302,Brownsville,Dodge County,Assembly District 39,State Senate District 13,WI6,1704
+53137,43.008958,-88.6726,Helenville,Jefferson County,Assembly District 33,State Senate District 11,WI5,1690
+54638,43.79219,-90.36846,Kendall,Monroe County,Assembly District 50,State Senate District 17,WI3,1680
+53063,43.957599,-87.792815,Newton,Manitowoc County,Assembly District 27,State Senate District 9,WI6,1677
+54858,45.51583,-92.461712,Milltown,Polk County,Assembly District 28,State Senate District 10,WI7,1672
+53926,43.679317,-89.186656,Dalton,Green Lake County,Assembly District 42,State Senate District 14,WI6,1665
+54613,44.02719,-89.8879,Arkdale,Adams County,Assembly District 72,State Senate District 24,WI3,1663
+54489,44.462338,-90.003283,Vesper,Wood County,Assembly District 70,State Senate District 24,WI7,1660
+54082,45.06804,-92.749369,Houlton,St. Croix County,Assembly District 30,State Senate District 10,WI7,1655
+54610,44.346721,-91.836481,Alma,Buffalo County,Assembly District 92,State Senate District 31,WI3,1649
+54234,45.178293,-87.101748,Sister Bay,Door County,Assembly District 1,State Senate District 1,WI8,1644
+54856,46.43523,-91.05991,Mason,Bayfield County,Assembly District 74,State Senate District 25,WI7,1637
+54644,44.021422,-91.03295,Mindoro,La Crosse County,Assembly District 94,State Senate District 32,WI3,1621
+54156,45.63524,-87.99095,Pembine,Marinette County,Assembly District 36,State Senate District 12,WI8,1616
+54204,44.752379,-87.625888,Brussels,Door County,Assembly District 1,State Senate District 1,WI8,1608
+54475,44.474097,-89.795501,Rudolph,Wood County,Assembly District 70,State Senate District 24,WI3,1575
+54227,44.276554,-87.801651,Maribel,Manitowoc County,Assembly District 2,State Senate District 1,WI6,1561
+54491,45.248003,-88.803154,White Lake,Langlade County,Assembly District 36,State Senate District 12,WI7,1555
+54870,45.73714,-91.775875,Sarona,Washburn County,Assembly District 75,State Senate District 25,WI7,1548
+54424,45.272303,-89.086848,Deerbrook,Langlade County,Assembly District 35,State Senate District 12,WI7,1531
+53057,43.82638,-88.24621,Mount Calvary,Fond Du Lac County,Assembly District 59,State Senate District 20,WI6,1515
+54974,43.775697,-88.659504,Rosendale,Fond Du Lac County,Assembly District 53,State Senate District 18,WI6,1510
+53079,43.82277,-88.16704,Saint Cloud,Fond Du Lac County,Assembly District 59,State Senate District 20,WI6,1508
+54977,44.451051,-89.146915,Scandinavia,Waupaca County,Assembly District 40,State Senate District 14,WI8,1502
+53510,42.73611,-90.33429,Belmont,Lafayette County,Assembly District 51,State Senate District 17,WI2,1482
+54407,44.46886,-89.31261,Amherst Junction,Portage County,Assembly District 71,State Senate District 24,WI3,1468
+54621,43.65775,-91.09652,Chaseburg,Vernon County,Assembly District 96,State Senate District 32,WI3,1466
+54805,45.4169,-92.03296,Almena,Barron County,Assembly District 75,State Senate District 25,WI7,1461
+54759,44.509108,-92.131821,Pepin,Pepin County,Assembly District 93,State Senate District 31,WI3,1454
+54651,43.696538,-90.548053,Ontario,Vernon County,Assembly District 96,State Senate District 32,WI3,1453
+53924,43.46358,-90.28225,Cazenovia,Richland County,Assembly District 51,State Senate District 17,WI3,1437
+54896,45.832746,-91.014362,Winter,Sawyer County,Assembly District 87,State Senate District 29,WI7,1427
+54624,43.480668,-91.133309,De Soto,Vernon County,Assembly District 96,State Senate District 32,WI3,1422
+54480,45.07691,-90.31514,Stetsonville,Taylor County,Assembly District 87,State Senate District 29,WI7,1410
+53518,43.19665,-90.56485,Blue River,Grant County,Assembly District 49,State Senate District 17,WI3,1393
+53577,43.293776,-90.022327,Plain,Sauk County,Assembly District 51,State Senate District 17,WI2,1387
+54531,45.74835,-89.821598,Hazelhurst,Oneida County,Assembly District 34,State Senate District 12,WI7,1383
+54749,44.947538,-92.07521,Knapp,Dunn County,Assembly District 29,State Senate District 10,WI3,1380
+53930,43.6866,-89.483441,Endeavor,Marquette County,Assembly District 42,State Senate District 14,WI6,1373
+54547,46.143746,-90.110725,Mercer,Iron County,Assembly District 74,State Senate District 25,WI7,1365
+54965,44.155967,-89.02096,Pine River,Waushara County,Assembly District 40,State Senate District 14,WI6,1352
+54213,44.722418,-87.528122,Forestville,Door County,Assembly District 1,State Senate District 1,WI8,1347
+54626,43.220573,-91.034135,Eastman,Crawford County,Assembly District 96,State Senate District 32,WI3,1340
+54721,44.602774,-92.062219,Arkansaw,Pepin County,Assembly District 93,State Senate District 31,WI3,1334
+54209,45.012261,-87.266031,Egg Harbor,Door County,Assembly District 1,State Senate District 1,WI8,1326
+54659,44.291449,-91.087671,Taylor,Jackson County,Assembly District 92,State Senate District 31,WI3,1322
+54876,45.821216,-91.462771,Stone Lake,Sawyer County,Assembly District 87,State Senate District 29,WI7,1317
+54979,43.839613,-88.543924,Van Dyne,Fond Du Lac County,Assembly District 53,State Senate District 18,WI6,1312
+53826,43.110147,-90.957097,Wauzeka,Crawford County,Assembly District 96,State Senate District 32,WI3,1308
+54541,45.561723,-88.706496,Laona,Forest County,Assembly District 36,State Senate District 12,WI7,1307
+54422,44.95525,-90.43458,Curtiss,Clark County,Assembly District 69,State Senate District 23,WI7,1306
+54888,45.966368,-91.886372,Trego,Washburn County,Assembly District 73,State Senate District 25,WI7,1303
+54202,45.077002,-87.14603,Baileys Harbor,Door County,Assembly District 1,State Senate District 1,WI8,1292
+54762,45.262353,-91.992842,Prairie Farm,Barron County,Assembly District 75,State Senate District 25,WI7,1269
+54420,44.606893,-90.375852,Chili,Clark County,Assembly District 69,State Senate District 23,WI7,1268
+53569,43.031263,-90.492475,Montfort,Grant County,Assembly District 49,State Senate District 17,WI3,1267
+54539,45.775685,-89.574808,Lake Tomahawk,Oneida County,Assembly District 34,State Senate District 12,WI7,1265
+54566,45.443574,-88.619413,Wabeno,Forest County,Assembly District 36,State Senate District 12,WI7,1259
+54932,43.832253,-88.582166,Eldorado,Fond Du Lac County,Assembly District 53,State Senate District 18,WI6,1256
+54864,46.594249,-91.815333,Poplar,Douglas County,Assembly District 73,State Senate District 25,WI7,1249
+54459,45.451541,-90.287732,Ogema,Price County,Assembly District 74,State Senate District 25,WI7,1238
+53911,43.336846,-89.36061,Arlington,Columbia County,Assembly District 42,State Senate District 14,WI6,1237
+54511,45.711791,-88.810386,Argonne,Forest County,Assembly District 34,State Senate District 12,WI7,1233
+53808,42.62722,-90.59207,Dickeyville,Grant County,Assembly District 49,State Senate District 17,WI3,1226
+53550,42.564434,-89.507906,Juda,Green County,Assembly District 45,State Senate District 15,WI2,1220
+54488,44.840956,-90.257456,Unity,Marathon County,Assembly District 69,State Senate District 23,WI7,1216
+53046,43.153279,-88.164427,Lannon,Waukesha County,Assembly District 22,State Senate District 8,WI5,1213
+53803,42.554499,-90.350817,Benton,Lafayette County,Assembly District 51,State Senate District 17,WI2,1211
+54529,45.690115,-89.663974,Harshaw,Oneida County,Assembly District 34,State Senate District 12,WI7,1200
+53587,42.579926,-89.931751,South Wayne,Lafayette County,Assembly District 51,State Senate District 17,WI2,1186
+54427,44.870527,-89.215113,Eland,Shawano County,Assembly District 35,State Senate District 12,WI7,1185
+54149,45.1847,-88.47372,Mountain,Oconto County,Assembly District 36,State Senate District 12,WI8,1182
+54733,45.261871,-91.845156,Dallas,Barron County,Assembly District 75,State Senate District 25,WI7,1181
+54104,45.420602,-88.246901,Athelstane,Marinette County,Assembly District 36,State Senate District 12,WI8,1179
+54821,46.21018,-91.189305,Cable,Bayfield County,Assembly District 74,State Senate District 25,WI7,1178
+54307,44.470363,-88.036686,Green Bay,Brown County,Assembly District 4,State Senate District 2,WI8,1173
+53937,43.390863,-90.128539,Hill Point,Sauk County,Assembly District 51,State Senate District 17,WI2,1165
+53582,43.016577,-89.986458,Ridgeway,Iowa County,Assembly District 80,State Senate District 27,WI2,1164
+54442,45.366386,-89.670022,Irma,Lincoln County,Assembly District 35,State Senate District 12,WI7,1160
+54556,45.532944,-90.28166,Prentice,Price County,Assembly District 74,State Senate District 25,WI7,1159
+53554,42.898716,-90.511593,Livingston,Grant County,Assembly District 49,State Senate District 17,WI3,1152
+54652,43.470286,-90.774539,Readstown,Vernon County,Assembly District 96,State Senate District 32,WI3,1150
+54761,44.619607,-92.180419,Plum City,Pierce County,Assembly District 93,State Senate District 31,WI3,1146
+54962,44.426783,-88.993214,Ogdensburg,Waupaca County,Assembly District 40,State Senate District 14,WI8,1144
+54611,44.451027,-90.975918,Alma Center,Jackson County,Assembly District 92,State Senate District 31,WI7,1142
+54723,44.631517,-92.435186,Bay City,Pierce County,Assembly District 93,State Senate District 31,WI3,1137
+54632,43.57664,-91.2243,Genoa,Vernon County,Assembly District 96,State Senate District 32,WI3,1132
+54763,45.168279,-91.875797,Ridgeland,Dunn County,Assembly District 67,State Senate District 23,WI3,1128
+54546,46.320677,-90.746141,Mellen,Ashland County,Assembly District 74,State Senate District 25,WI7,1119
+54838,46.293033,-91.894633,Gordon,Douglas County,Assembly District 73,State Senate District 25,WI7,1106
+54921,44.341602,-89.526303,Bancroft,Portage County,Assembly District 71,State Senate District 24,WI3,1097
+54150,44.98777,-88.82269,Neopit,Menominee County,Assembly District 36,State Senate District 12,WI8,1087
+54772,45.094148,-91.879257,Wheeler,Dunn County,Assembly District 67,State Senate District 23,WI3,1068
+54836,46.452892,-92.171445,Foxboro,Douglas County,Assembly District 73,State Senate District 25,WI7,1060
+54003,44.789742,-92.448434,Beldenville,Pierce County,Assembly District 93,State Senate District 31,WI3,1058
+53943,43.385775,-90.017885,Loganville,Sauk County,Assembly District 50,State Senate District 17,WI2,1047
+54027,44.919366,-92.192828,Wilson,St. Croix County,Assembly District 29,State Senate District 10,WI7,1045
+53506,43.138475,-90.280725,Avoca,Iowa County,Assembly District 51,State Senate District 17,WI2,1043
+54212,45.11038,-87.209899,Fish Creek,Door County,Assembly District 1,State Senate District 1,WI8,1035
+54985,44.075066,-88.518469,Winnebago,Winnebago County,Assembly District 53,State Senate District 18,WI6,1033
+54748,45.088875,-91.256794,Jim Falls,Chippewa County,Assembly District 67,State Senate District 23,WI7,1021
+54007,45.18802,-92.38547,Deer Park,St. Croix County,Assembly District 29,State Senate District 10,WI7,1020
+54428,45.413361,-89.143347,Elcho,Langlade County,Assembly District 35,State Senate District 12,WI7,1006
+54750,44.623923,-92.29072,Maiden Rock,Pierce County,Assembly District 93,State Senate District 31,WI3,1003
+54408,45.00858,-89.21428,Aniwa,Shawano County,Assembly District 35,State Senate District 12,WI7,997
+53522,42.563199,-89.778793,Browntown,Green County,Assembly District 51,State Senate District 17,WI2,996
+54628,43.319219,-91.054678,Ferryville,Crawford County,Assembly District 96,State Senate District 32,WI3,986
+54854,46.652638,-91.733798,Maple,Douglas County,Assembly District 73,State Senate District 25,WI7,978
+54653,43.90636,-90.9193,Rockland,La Crosse County,Assembly District 94,State Senate District 32,WI3,975
+54964,43.956653,-88.71918,Pickett,Winnebago County,Assembly District 53,State Senate District 18,WI6,973
+54895,45.40913,-91.423051,Weyerhaeuser,Rusk County,Assembly District 87,State Senate District 29,WI7,970
+54418,45.20802,-89.024,Bryant,Langlade County,Assembly District 35,State Senate District 12,WI7,966
+54175,45.309457,-88.605896,Townsend,Oconto County,Assembly District 36,State Senate District 12,WI8,936
+53541,42.579894,-90.031186,Gratiot,Lafayette County,Assembly District 51,State Senate District 17,WI2,931
+54441,44.645875,-90.105056,Hewitt,Wood County,Assembly District 86,State Senate District 29,WI7,923
+54756,44.473584,-91.910518,Nelson,Buffalo County,Assembly District 92,State Senate District 31,WI3,911
+54138,45.308254,-88.477771,Lakewood,Oconto County,Assembly District 36,State Senate District 12,WI8,895
+54559,46.502552,-90.402719,Saxon,Iron County,Assembly District 74,State Senate District 25,WI7,893
+54820,46.555409,-91.605419,Brule,Douglas County,Assembly District 74,State Senate District 25,WI7,878
+54855,46.366834,-90.840821,Marengo,Ashland County,Assembly District 74,State Senate District 25,WI7,876
+54835,45.66802,-91.24405,Exeland,Sawyer County,Assembly District 87,State Senate District 29,WI7,872
+54512,46.11328,-89.64459,Boulder Junction,Vilas County,Assembly District 34,State Senate District 12,WI7,865
+53922,43.517272,-88.73346,Burnett,Dodge County,Assembly District 42,State Senate District 14,WI6,863
+53801,42.90554,-91.10124,Bagley,Grant County,Assembly District 49,State Senate District 17,WI3,861
+54527,46.126107,-90.611172,Glidden,Ashland County,Assembly District 74,State Senate District 25,WI7,857
+54246,45.373786,-86.897472,Washington Island,Door County,Assembly District 1,State Senate District 1,WI8,850
+53537,42.672575,-89.211151,Footville,Rock County,Assembly District 43,State Senate District 15,WI2,843
+53816,42.975521,-90.84962,Mount Hope,Grant County,Assembly District 49,State Senate District 17,WI3,841
+54232,44.005714,-87.922351,Saint Nazianz,Manitowoc County,Assembly District 25,State Senate District 9,WI6,840
+54557,46.200011,-89.738691,Presque Isle,Vilas County,Assembly District 34,State Senate District 12,WI7,838
+54530,45.518558,-90.743138,Hawkins,Rusk County,Assembly District 87,State Senate District 29,WI7,832
+53544,42.871497,-89.923881,Hollandale,Iowa County,Assembly District 80,State Senate District 27,WI2,828
+54734,45.001949,-92.099665,Downing,Dunn County,Assembly District 29,State Senate District 10,WI3,820
+54545,46.155097,-89.845465,Manitowish Waters,Vilas County,Assembly District 34,State Senate District 12,WI7,808
+53961,43.459884,-89.931931,Rock Springs,Sauk County,Assembly District 81,State Senate District 27,WI2,798
+54563,45.45197,-90.964443,Tony,Rusk County,Assembly District 87,State Senate District 29,WI7,781
+54102,45.492839,-88.049604,Amberg,Marinette County,Assembly District 36,State Senate District 12,WI8,774
+54490,45.330939,-90.401519,Westboro,Taylor County,Assembly District 87,State Senate District 29,WI7,762
+54210,45.253108,-87.044698,Ellison Bay,Door County,Assembly District 1,State Senate District 1,WI8,758
+54526,45.486195,-90.847935,Glen Flora,Rusk County,Assembly District 87,State Senate District 29,WI7,734
+54826,45.47773,-92.07518,Comstock,Barron County,Assembly District 75,State Senate District 25,WI7,733
+54746,44.52913,-90.88931,Humbird,Clark County,Assembly District 68,State Senate District 23,WI7,726
+54731,45.357563,-91.088353,Conrath,Rusk County,Assembly District 87,State Senate District 29,WI7,721
+54828,45.837967,-91.291784,Couderay,Sawyer County,Assembly District 87,State Senate District 29,WI7,701
+53167,42.74141,-88.22426,Rochester,Racine County,Assembly District 63,State Senate District 21,WI1,700
+54119,45.591557,-88.222435,Dunbar,Marinette County,Assembly District 36,State Senate District 12,WI8,697
+53069,43.11362,-88.43593,Okauchee,Waukesha County,Assembly District 38,State Senate District 13,WI5,685
+54550,46.428,-90.24601,Montreal,Iron County,Assembly District 74,State Senate District 25,WI7,654
+54769,44.508365,-92.232594,Stockholm,Pepin County,Assembly District 93,State Senate District 31,WI3,644
+54524,45.814336,-90.453045,Fifield,Price County,Assembly District 74,State Senate District 25,WI7,632
+54813,45.6369,-91.99296,Barronett,Barron County,Assembly District 75,State Senate District 25,WI7,631
+53526,42.963325,-90.369319,Cobb,Iowa County,Assembly District 51,State Senate District 17,WI2,620
+53553,42.91777,-90.27346,Linden,Iowa County,Assembly District 51,State Senate District 17,WI2,602
+54493,44.715341,-90.769733,Willard,Clark County,Assembly District 68,State Senate District 23,WI7,600
+54006,45.57051,-92.65104,Cushing,Polk County,Assembly District 28,State Senate District 10,WI7,598
+54463,45.525897,-89.236033,Pelican Lake,Oneida County,Assembly District 35,State Senate District 12,WI7,596
+53825,42.926596,-90.583575,Stitzer,Grant County,Assembly District 49,State Senate District 17,WI3,571
+54560,46.02023,-89.497889,Sayner,Vilas County,Assembly District 34,State Senate District 12,WI7,568
+54737,44.69219,-92.01156,Eau Galle,Dunn County,Assembly District 93,State Senate District 31,WI3,531
+54125,45.648826,-88.333152,Goodman,Marinette County,Assembly District 36,State Senate District 12,WI8,506
+54846,46.376072,-90.761153,High Bridge,Ashland County,Assembly District 74,State Senate District 25,WI7,496
+54537,45.528816,-90.606178,Kennan,Price County,Assembly District 74,State Senate District 25,WI7,495
+54103,45.672311,-88.530545,Armstrong Creek,Forest County,Assembly District 34,State Senate District 12,WI7,471
+54927,44.103137,-88.653949,Butte Des Morts,Winnebago County,Assembly District 56,State Senate District 19,WI8,470
+54450,45.006232,-89.047379,Mattoon,Shawano County,Assembly District 35,State Senate District 12,WI8,455
+54515,45.535762,-90.504465,Catawba,Price County,Assembly District 74,State Senate District 25,WI7,448
+54865,46.77466,-91.38657,Port Wing,Bayfield County,Assembly District 74,State Senate District 25,WI7,441
+54447,45.07719,-90.72458,Lublin,Taylor County,Assembly District 87,State Senate District 29,WI7,439
+53969,43.498907,-89.30497,Wyocena,Columbia County,Assembly District 42,State Senate District 14,WI6,438
+54867,45.800649,-91.268979,Radisson,Sawyer County,Assembly District 87,State Senate District 29,WI7,432
+53088,44.07166,-88.29899,Stockbridge,Calumet County,Assembly District 3,State Senate District 1,WI8,406
+54928,44.735836,-88.876673,Caroline,Shawano County,Assembly District 6,State Senate District 2,WI8,404
+54542,45.913837,-88.623498,Long Lake,Florence County,Assembly District 34,State Senate District 12,WI7,402
+53016,43.31139,-88.7201,Clyman,Dodge County,Assembly District 39,State Senate District 13,WI5,395
+54513,45.584525,-90.166914,Brantwood,Price County,Assembly District 74,State Senate District 25,WI7,394
+53920,43.65498,-89.5854,Briggsville,Marquette County,Assembly District 42,State Senate District 14,WI6,393
+54933,44.668605,-88.704318,Embarrass,Waupaca County,Assembly District 6,State Senate District 2,WI8,382
+54485,45.396466,-89.217933,Summit Lake,Langlade County,Assembly District 35,State Senate District 12,WI7,380
+54657,43.18109,-90.85874,Steuben,Crawford County,Assembly District 96,State Senate District 32,WI3,376
+53810,42.822065,-90.982153,Glen Haven,Grant County,Assembly District 49,State Senate District 17,WI3,373
+53505,42.659301,-88.83065,Avalon,Rock County,Assembly District 31,State Senate District 11,WI1,357
+54967,44.134044,-88.986361,Poy Sippi,Waushara County,Assembly District 40,State Senate District 14,WI6,353
+53557,43.343056,-88.791442,Lowell,Dodge County,Assembly District 39,State Senate District 13,WI5,348
+54832,46.33689,-91.25797,Drummond,Bayfield County,Assembly District 74,State Senate District 25,WI7,346
+54160,44.119917,-88.096495,Potter,Calumet County,Assembly District 25,State Senate District 9,WI8,327
+54827,46.834502,-91.092821,Cornucopia,Bayfield County,Assembly District 74,State Senate District 25,WI7,289
+54841,45.60884,-91.77489,Haugen,Barron County,Assembly District 75,State Senate District 25,WI7,283
+54931,44.27304,-88.67844,Dale,Outagamie County,Assembly District 56,State Senate District 19,WI8,270
+54844,46.83243,-91.26102,Herbster,Bayfield County,Assembly District 74,State Senate District 25,WI7,266
+54123,44.21249,-88.14427,Forest Junction,Calumet County,Assembly District 3,State Senate District 1,WI8,263
+53827,43.035813,-90.853002,Woodman,Grant County,Assembly District 49,State Senate District 17,WI3,261
+54211,45.159184,-87.171024,Ephraim,Door County,Assembly District 1,State Senate District 1,WI8,259
+54214,44.197537,-87.713043,Francis Creek,Manitowoc County,Assembly District 2,State Senate District 1,WI6,257
+53939,43.6911,-89.130237,Kingston,Green Lake County,Assembly District 42,State Senate District 14,WI6,256
+53935,43.590116,-89.05931,Friesland,Columbia County,Assembly District 42,State Senate District 14,WI6,254
+54839,46.36745,-91.10825,Grand View,Bayfield County,Assembly District 74,State Senate District 25,WI7,251
+54120,45.74447,-88.47565,Fence,Florence County,Assembly District 34,State Senate District 12,WI7,249
+54525,46.42828,-90.22518,Gile,Iron County,Assembly District 74,State Senate District 25,WI7,247
+54625,44.14309,-91.520432,Dodge,Trempealeau County,Assembly District 92,State Senate District 31,WI3,240
+54850,46.803272,-90.692287,La Pointe,Ashland County,Assembly District 74,State Senate District 25,WI7,237
+54760,44.424863,-91.207421,Pigeon Falls,Trempealeau County,Assembly District 92,State Senate District 31,WI3,234
+53931,43.747481,-88.866516,Fairwater,Fond Du Lac County,Assembly District 42,State Senate District 14,WI6,220
+54862,45.797008,-91.127234,Ojibwa,Sawyer County,Assembly District 87,State Senate District 29,WI7,219
+54861,46.614971,-90.656678,Odanah,Ashland County,Assembly District 74,State Senate District 25,WI7,205
+53540,43.22332,-90.29151,Gotham,Richland County,Assembly District 51,State Senate District 17,WI2,203
+54637,43.88013,-90.272928,Hustler,Juneau County,Assembly District 50,State Senate District 17,WI3,195
+53501,42.60621,-89.065499,Afton,Rock County,Assembly District 43,State Senate District 15,WI2,191
+53947,43.746464,-89.138441,Marquette,Green Lake County,Assembly District 41,State Senate District 14,WI6,177
+53295,43.022478,-87.976073,Milwaukee,Milwaukee County,Assembly District 7,State Senate District 3,WI4,173
+53702,43.060926,-88.230636,Madison,Waukesha County,Assembly District 98,State Senate District 33,WI5,170
+54536,46.318241,-90.342024,Iron Belt,Iron County,Assembly District 74,State Senate District 25,WI7,169
+53817,42.942183,-90.964596,Patch Grove,Grant County,Assembly District 49,State Senate District 17,WI3,166
+54842,46.503,-91.86075,Hawthorne,Douglas County,Assembly District 73,State Senate District 25,WI7,162
+53003,43.21195,-88.51621,Ashippun,Dodge County,Assembly District 39,State Senate District 13,WI5,161
+54430,45.147659,-88.873132,Elton,Langlade County,Assembly District 36,State Senate District 12,WI7,156
+53195,42.513649,-88.484322,Zenda,Walworth County,Assembly District 32,State Senate District 11,WI1,154
+54413,44.298272,-90.140404,Babcock,Wood County,Assembly District 70,State Senate District 24,WI7,149
+54207,44.091021,-87.990241,Collins,Manitowoc County,Assembly District 25,State Senate District 9,WI6,146
+53047,43.256793,-88.6281,Lebanon,Dodge County,Assembly District 37,State Senate District 13,WI5,127
+54845,45.799612,-92.153743,Hertel,Burnett County,Assembly District 73,State Senate District 25,WI7,124
+53571,43.277325,-89.356403,Morrisonville,Dane County,Assembly District 42,State Senate District 14,WI2,112
+53928,43.426605,-89.149069,Doylestown,Columbia County,Assembly District 42,State Senate District 14,WI6,111
+54980,43.988578,-88.771167,Waukau,Winnebago County,Assembly District 53,State Senate District 18,WI6,109
+54517,46.16384,-90.9024,Clam Lake,Ashland County,Assembly District 74,State Senate District 25,WI7,105
+54654,43.26498,-90.95846,Seneca,Crawford County,Assembly District 96,State Senate District 32,WI3,99
+54458,44.49497,-89.30984,Nelsonville,Portage County,Assembly District 71,State Senate District 24,WI3,98
+54946,44.336605,-89.1444,King,Waupaca County,Assembly District 40,State Senate District 14,WI8,89
+54645,43.31526,-90.92874,Mount Sterling,Crawford County,Assembly District 96,State Senate District 32,WI3,80
+54127,44.79555,-88.27038,Green Valley,Shawano County,Assembly District 36,State Senate District 12,WI8,77
+54857,45.596342,-91.605711,Mikana,Barron County,Assembly District 75,State Senate District 25,WI7,59
+53599,42.649309,-89.862202,Woodford,Lafayette County,Assembly District 51,State Senate District 17,WI2,50
+53802,42.79499,-90.8854,Beetown,Grant County,Assembly District 49,State Senate District 17,WI3,44
+54417,45.02735,-89.654118,Brokaw,Marathon County,Assembly District 86,State Senate District 29,WI7,39
+54765,45.169133,-91.68559,Sand Creek,Dunn County,Assembly District 67,State Senate District 23,WI3,9
+54641,44.270653,-90.330096,Mather,Jackson County,Assembly District 70,State Senate District 24,WI7,3

@@ -31,7 +31,7 @@ def contains(point, nodes, edges):
 # def main():
 #     test_nodes = [[1, 1], [1, -1], [-1, -1], [-1, 1]]
 #     test_edges = [(0, 1), (1, 2), (2, 3), (3, 0)]
-#     for _ in range(100):
+#     for _ in range(1000):
 #         if (contains([random.random(), random.random()], test_nodes, test_edges)):
 #             pass
 #         else:
