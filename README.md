@@ -9,3 +9,5 @@ https://github.com/fivethirtyeight/redistricting-atlas-data
 voting data 
 https://gerrymander.princeton.edu/redistricting-report-card/?planId=reczTLxTsyEVnXMMo
 click "Download Score Data"
+
+https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P1
