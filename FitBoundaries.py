@@ -4,8 +4,6 @@ from intersection import contains
 import numpy as np
 import random
 
-import matplotlib.pyplot as plt
-
 
 # updates county boundaries to maximize fairness
 def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, partySwitchScore, maxEpochs, temperature, moveDist):
@@ -38,18 +36,23 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
         numDistrictsForA = np.ceil(len(boundaryEdges) * percentPartyA)
     
     print("percent A: ", percentPartyA)
-    print("num districts A: ", numDistrictsForA, "num districts B: ", len(boundaryEdges) - numDistrictsForA)
+    print("want ", numDistrictsForA, " A districts and ", len(boundaryEdges) - numDistrictsForA, " B districts")
+    print()
    
     ################ calculate party percentage within each boundary ################
-    # calculate party percentage in each boundary
+    # get oldAByDistrict
     oldAByDistrict = list()  # percent of population in a boundary voting for A
-    for i in range(len(boundaryEdges)):  # for each boundary
+    districtAssignment = dict()
+    flippableSet = set()
+    districtAssignment, flippableSet = initialize()
+    
+    # for each 
+    for key in districtAssignment:  # for each district
         votesPartyA = 0.0
         totalVotes = 0.0
-        for j in range(len(peopleDots)):  # count total votes, votes for party A
-            if contains(peopleDots[j][0], peopleDots[j][1], boundaryPoints, boundaryEdges[i]):
-                totalVotes += peopleDots[j][3]
-                votesPartyA += peopleDots[j][2]
+        for i in len(districtAssignment[key]):  # for each zip code in district
+            votesPartyA += zip_dict[districtAssignment[key][i]][2]
+            totalVotes += zip_dict[districtAssignment[key][i]][3]
         oldAByDistrict.append(votesPartyA / totalVotes)
     oldAByDistrict.sort(reverse=True)  # put counties w/ highest percent A at top
     
@@ -62,34 +65,27 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
         print("epoch: ", epoch)
    
         ########## pick boundary point and move ##########
-        # pick boundary point
-        movedPoint = np.random.randint(0, len(boundaryPoints))
-        originalPoint = boundaryPoints[movedPoint].copy()
-        
-        # move point slightly
-        moveVec = np.random.multivariate_normal([0, 0], [[moveDist, 0], [0, moveDist]])
-        newPoint = [originalPoint[0] + moveVec[0], originalPoint[1] + moveVec[1]]
-        
-        print("\t moved point #", movedPoint, " = ", originalPoint, " to: ", newPoint[0], ", ", newPoint[1])
-         
-        # check if move is valid
-        # TODO
-        # move point
-        boundaryPoints[movedPoint] = newPoint.copy()
+        while True:
+            flippedZip = random.sample(list(flippableSet))
+            # cant flip a zipcode that is the only zipcode of a region
+            if len(zips_in_districts[zip_dict[flippedZip[0]][REGION]]) == 1:
+                flippableSet.remove(flippedZip)
+            # this point is flippable
+            else:
+                break
+            
+        update(flippedZip)  # updates district assignment and flippable set
         
         ########## re calculate boundary percentages ##########
-        newAByDistrict = list()
-        # TODO: update % of a party within each boundary (but faster)
-        for i in range(len(boundaryEdges)):  # for each boundary
+        newAByDistrict.sort()
+        for key in districtAssignment:  # for each district
             votesPartyA = 0.0
             totalVotes = 0.0
-            for j in range(len(peopleDots)):  # count total votes, votes for party A
-                if contains(peopleDots[j][0], peopleDots[j][1], boundaryPoints, boundaryEdges[i]):
-                    totalVotes += peopleDots[j][3]
-                    votesPartyA += peopleDots[j][2]
-            newAByDistrict.append(votesPartyA / totalVotes)
-        # END TODO:
-        newAByDistrict.sort(reverse=True)
+            for i in len(districtAssignment[key]):  # for each zip code in district
+                votesPartyA += zip_dict[districtAssignment[key][i]][2]
+                totalVotes += zip_dict[districtAssignment[key][i]][3]
+                newAByDistrict.append(votesPartyA / totalVotes)
+        newAByDistrict.sort(reverse=True)  # put counties w/ highest percent A at top
         
         print("\t new district percentages: ", newAByDistrict)
 
@@ -102,34 +98,24 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
             # reset district change
             districtChange = 0
             
-            # if district i should vote for party A
+            # if parties switched
+            if (oldAByDistrict[i] <= 0.5 and newAByDistrict[i] >= 0.5) or (newAByDistrict[i] <= 0.5 and oldAByDistrict[i] >= 0.5):
+                districtChange = partySwitchScore * (newAByDistrict[i] - oldAByDistrict[i])
+            # parties did not switch and if party is incorrect
+            elif newAByDistrict[i] < 0.5:
+                    districtChange = newAByDistrict[i] - oldAByDistrict[i]
+                    
+            # if party B was supposed to win    
             if i < numDistrictsForA:
-                # if parties switched
-                if (oldAByDistrict[i] <= 0.5 and newAByDistrict[i] >= 0.5) or (newAByDistrict[i] <= 0.5 and oldAByDistrict[i] >= 0.5):
-                    districtChange = partySwitchScore * (newAByDistrict[i] - oldAByDistrict[i])
-                # parties did not switch
-                else:
-                    # if party is incorrect
-                    if newAByDistrict[i] < 0.5:
-                        districtChange = newAByDistrict[i] - oldAByDistrict[i]
-                
-            # county should not vote for party A
-            else:
-                # if parties switched
-                if (oldAByDistrict[i] <= 0.5 and newAByDistrict[i] >= 0.5) or (newAByDistrict[i] <= 0.5 and oldAByDistrict[i] >= 0.5):
-                    districtChange = partySwitchScore * (oldAByDistrict[i] - newAByDistrict[i])
-                # parties did not switch
-                else:
-                    # if party is incorrect
-                    if newAByDistrict[i] >= 0.5:
-                        districtChange = oldAByDistrict[i] - newAByDistrict[i];
+                districtChange *= -1.0
                     
             # add county change to total change
             totalChange += districtChange
-            
+         
+        # done finding change in representation   
         print("\t change in fairness: ", totalChange)
-        print("old: ", oldAByDistrict)
-        print("new: ", newAByDistrict)
+        print("\t old: ", oldAByDistrict)
+        print("\t new: ", newAByDistrict)
   
         ########## choose to accept or reject move ##########
         # if overall change was beneficial, accept
