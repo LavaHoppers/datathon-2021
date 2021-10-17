@@ -6,13 +6,12 @@ import random
 
 
 # updates county boundaries to maximize fairness
-def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, partySwitchScore, maxEpochs, temperature, moveDist):
+def fit_boundaries(percentPartyA, partySwitchScore, maxEpochs, temperature):
     
     ''' use simulated annealing to increase fairness in boundary drawings
     
     Args:
         percentPartyA (float): percent of people in party A
-        peopleDots (list of tupples): data to represent people at a location
         boundaryPoints (list of lists): points to define boundary location: each has x,y
         boundaryEdges (list of list of tupples): define edges that define boundaries
         
@@ -31,12 +30,12 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
     if percentPartyA > 1:
         percentPartyA /= 100
     if percentPartyA > 0.5:
-        numDistrictsForA = np.floor(len(boundaryEdges) * percentPartyA)
+        numDistrictsForA = np.floor(numDistricts * percentPartyA)
     else:
-        numDistrictsForA = np.ceil(len(boundaryEdges) * percentPartyA)
+        numDistrictsForA = np.ceil(numDistricts * percentPartyA)
     
     print("percent A: ", percentPartyA)
-    print("want ", numDistrictsForA, " A districts and ", len(boundaryEdges) - numDistrictsForA, " B districts")
+    print("want ", numDistrictsForA, " A districts and ", numDistricts - numDistrictsForA, " B districts")
     print()
    
     ################ calculate party percentage within each boundary ################
@@ -65,6 +64,7 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
         print("epoch: ", epoch)
    
         ########## pick boundary point and move ##########
+        originalRegion = ''
         while True:
             flippedZip = random.sample(list(flippableSet))
             # cant flip a zipcode that is the only zipcode of a region
@@ -72,8 +72,9 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
                 flippableSet.remove(flippedZip)
             # this point is flippable
             else:
+                originalRegion = zip_dict[flippedZip[0]][REGION]
                 break
-            
+        
         update(flippedZip)  # updates district assignment and flippable set
         
         ########## re calculate boundary percentages ##########
@@ -93,7 +94,7 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
         totalChange = 0  # total change in representation
         districtChange = 0  # change in representation in one district
         # loop thru each district, sum scores
-        for i in range(len(boundaryEdges)):
+        for i in range(numDistricts):
             
             # reset district change
             districtChange = 0
@@ -133,7 +134,7 @@ def fit_boundaries(percentPartyA, peopleDots, boundaryPoints, boundaryEdges, par
             oldAByDistrict = newAByDistrict.copy()
         else:
             print("\t reject")
-            boundaryPoints[movedPoint] = originalPoint.copy()
+            update((flippedZip[0], originalRegion))
 
     # function done
     return 0
