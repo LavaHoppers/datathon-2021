@@ -19,3 +19,6 @@ https://github.com/fivethirtyeight/redistricting-atlas-data/blob/master/drf/WI-D
 https://docs.racket-lang.org/geoid/index.html
 
 https://www.wisconsin-demographics.com/zip_codes_by_population
+
+
+https://docs.google.com/document/d/1n_BoOqrwDoUzszPDrbqq3QilxCK3iuhdB2aLP0Uxb3w/edit?usp=sharing
