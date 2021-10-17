@@ -30,28 +30,25 @@ def fit_boundaries(percentPartyA, partySwitchScore, maxEpochs, temperature):
     if percentPartyA > 1:
         percentPartyA /= 100
     if percentPartyA > 0.5:
-        numDistrictsForA = np.floor(numDistricts * percentPartyA)
+        numDistrictsForA = np.floor(NUM_DISTRICTS * percentPartyA)
     else:
-        numDistrictsForA = np.ceil(numDistricts * percentPartyA)
+        numDistrictsForA = np.ceil(NUM_DISTRICTS * percentPartyA)
     
     print("percent A: ", percentPartyA)
-    print("want ", numDistrictsForA, " A districts and ", numDistricts - numDistrictsForA, " B districts")
+    print("want ", numDistrictsForA, " A districts and ", NUM_DISTRICTS - numDistrictsForA, " B districts")
     print()
    
     ################ calculate party percentage within each boundary ################
     # get oldAByDistrict
     oldAByDistrict = list()  # percent of population in a boundary voting for A
-    districtAssignment = dict()
-    flippableSet = set()
-    districtAssignment, flippableSet = initialize()
-    
+
     # for each 
-    for key in districtAssignment:  # for each district
+    for key in zips_in_districts.keys():  # for each district
         votesPartyA = 0.0
         totalVotes = 0.0
-        for i in len(districtAssignment[key]):  # for each zip code in district
-            votesPartyA += zip_dict[districtAssignment[key][i]][2]
-            totalVotes += zip_dict[districtAssignment[key][i]][3]
+        for element in zips_in_districts[key]:  # for each zip code in district
+            votesPartyA += element['dem']
+            totalVotes += element['votes_count']
         oldAByDistrict.append(votesPartyA / totalVotes)
     oldAByDistrict.sort(reverse=True)  # put counties w/ highest percent A at top
     
@@ -66,26 +63,26 @@ def fit_boundaries(percentPartyA, partySwitchScore, maxEpochs, temperature):
         ########## pick boundary point and move ##########
         originalRegion = ''
         while True:
-            flippedZip = random.sample(list(flippableSet))
+            flippedZip = random.sample(list(flipable))
             # cant flip a zipcode that is the only zipcode of a region
             if len(zips_in_districts[zip_dict[flippedZip[0]][REGION]]) == 1:
-                flippableSet.remove(flippedZip)
+                flipable.remove(flippedZip)
             # this point is flippable
             else:
                 originalRegion = zip_dict[flippedZip[0]][REGION]
                 break
         
-        update(flippedZip)  # updates district assignment and flippable set
+        flip_district(flippedZip[0], flippedZip[1])  # updates district assignment and flippable set
         
         ########## re calculate boundary percentages ##########
         newAByDistrict.sort()
-        for key in districtAssignment:  # for each district
+        for key in zips_in_districts.keys():  # for each district
             votesPartyA = 0.0
             totalVotes = 0.0
-            for i in len(districtAssignment[key]):  # for each zip code in district
-                votesPartyA += zip_dict[districtAssignment[key][i]][2]
-                totalVotes += zip_dict[districtAssignment[key][i]][3]
-                newAByDistrict.append(votesPartyA / totalVotes)
+            for element in zips_in_districts[key]:  # for each zip code in district
+                votesPartyA += element['dem']
+                totalVotes += element['votes_count']
+            newAByDistrict.append(votesPartyA / totalVotes)
         newAByDistrict.sort(reverse=True)  # put counties w/ highest percent A at top
         
         print("\t new district percentages: ", newAByDistrict)
@@ -94,7 +91,7 @@ def fit_boundaries(percentPartyA, partySwitchScore, maxEpochs, temperature):
         totalChange = 0  # total change in representation
         districtChange = 0  # change in representation in one district
         # loop thru each district, sum scores
-        for i in range(numDistricts):
+        for i in range(NUM_DISTRICTS):
             
             # reset district change
             districtChange = 0
@@ -134,7 +131,7 @@ def fit_boundaries(percentPartyA, partySwitchScore, maxEpochs, temperature):
             oldAByDistrict = newAByDistrict.copy()
         else:
             print("\t reject")
-            update((flippedZip[0], originalRegion))
+            flip_region((flippedZip[0], originalRegion))
 
     # function done
     return 0
