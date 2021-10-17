@@ -9,6 +9,7 @@ import math
 import random
 from pygame.locals import * 
 
+Colors=["#D79922","EFE2BA","F13C20","4056A1","C5CBE3"]
 BG_COLOR = (234,236,238)
 DRK_WHT = (248,249,249)
 RED = '#48C9B0'#(231,	76,	60)
@@ -76,7 +77,8 @@ for _, row in df.iterrows():
 
 dis_color = dict()
 for distric in districts:
-    dis_color[distric] = (random.random() * 255, random.random() * 255, random.random() * 255)
+    
+    dis_color[distric] = (Colors[random.randint(0,len(Colors))])
 
 pygame.draw.rect(DISPLAY, DRK_WHT, pygame.Rect(SCREEN_WIDTH / 20, SCREEN_HEIGHT / 20, SCREEN_WIDTH * .5, SCREEN_HEIGHT * .9), border_radius=18)
 
