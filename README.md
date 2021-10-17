@@ -22,3 +22,7 @@ https://www.wisconsin-demographics.com/zip_codes_by_population
 
 
 https://docs.google.com/document/d/1n_BoOqrwDoUzszPDrbqq3QilxCK3iuhdB2aLP0Uxb3w/edit?usp=sharing
+
+
+
+https://uwmadison.zoom.us/j/91774827773
